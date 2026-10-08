@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-238 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+240 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -117,6 +117,7 @@
 - [Invoice Coordinator](https://x.ai/bot/s072bae9387b9fc03cac8) <sup>official</sup> — Stops invoices sitting. Forwards them, matches what it can, tracks campus and vendor actuals, and nudges the owner when something needs a human. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Invoice Hunter](https://x.ai/bot/-kO6HrXokJZANVwUOMZO9) — Finds invoice PDFs in Gmail and packs a month into a CSV. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093398873247031468)</sub>
 - [Invoice Mirror](https://x.ai/bot/HwckXN5Yd1uxRu86msyfj) — Keeps Harvest and Balances invoices in sync: daily create/update from Harvest into Balances, then mark Harvest paid when Balances shows payment. Stages. <sub>by [Jerrod](https://x.com/jerrodtuck)</sub>
+- [Invoice Terminator](https://x.ai/bot/oIcq3e3tuwYIaPIkmx0cF) — Closes out each month's company software expenses before cutoff so a missed form doesn't cost you an invoice. <sub>by say</sub>
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) — Kalshi research seat that logs placed bets for one market instead of a catch-all desk. <sub>by [Jodi](https://x.com/WorkWithJodi) · [origin](https://x.com/WorkWithJodi/status/2101113469185474972)</sub>
 - [Laggy8](https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY) — A $100k soft-cap Mag8 laggard sleeve: ranks AAPL MSFT GOOGL AMZN META NVDA TSLA AVGO, picks the most hated name each month, and only proposes IBKR. <sub>by [Sachiv](https://x.com/SachivM99) (@SachivM99)</sub>
 - [Lease Finder](https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1) — Hunts current car lease deals nationwide for the deepest discount to MSRP. <sub>by [Danny](https://x.com/dannymacias) (@dannymacias) · [origin](https://x.com/dannymacias/status/2093409778265694256)</sub>
@@ -162,6 +163,7 @@
 - [Privacy Ops](https://x.ai/bot/ZfnCBw8WnIgMynLlika6H) — Data-broker and dead-account removal queue. Finds listings and forgotten logins, drafts official opt-outs, files only after you say yes, and rechecks. <sub>by [Mb](https://x.com/MehlyHQ4m) (@MehlyHQ4m)</sub>
 - [Profit Finder](https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7) — Bob Fifer-mode profit operator: pricing, packaging, cost cuts. <sub>by [Jon](https://x.com/JonStenstrom) (@JonStenstrom)</sub>
 - [Property Decision OS](https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R) — Residential property decision assistant that helps evaluate, compare, offer, and close without pushing you to buy. <sub>by [Amervim](https://x.com/Amervim) · [origin](https://x.com/Amervim/status/2105949142426288483)</sub>
+- [Property Scanner](https://x.ai/bot/-4Hs8iXe_p6Cfc1IRbilu) — Find potentially underpriced US homes with ZillAPI. Onboard a buyer, rank listings against nearby sold comps. <sub>by Rohit</sub>
 - [Prospector SR360](https://x.ai/bot/TYiFIZd7djkcCy_wdymgv) — Asistente comercial para una guía local de comercios. Prospecta negocios fuertes en Google Maps (fotos + WhatsApp + redes), arma fichas básicas gratis y.
 - [Prosperity](https://x.ai/bot/WnmSSUCTg1nHnRUboOpzK) — Private family finance overseer that shares patterns with the team and never gives advice. <sub>by [Ben](https://x.com/BinLeenk) (@Ben Link) · [origin](https://x.com/BinLeenk/status/2100201471018946640)</sub>
 - [Proto Calvin](https://x.ai/bot/PP2AhHmXXJgwo46iyFX93) — Sets binary serialization and handshake rules for local daemons. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>

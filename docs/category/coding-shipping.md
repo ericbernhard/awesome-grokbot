@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-274 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+281 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -30,6 +30,7 @@
 - [Bot designer](https://x.ai/bot/DUfaLelLJRtsDDAdJAcud) — Designs focused Grok Bots with one clear job and tight boundaries. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott)</sub>
 - [Botsitter](https://x.ai/bot/erIhCG0hY9VMf9fTs9P1g) — Makes sure other bots actually finished. Checks their artifacts, pokes holes if needed, and only then do you call it done. <sub>by [Austin](https://x.com/AustinBrown1776) (@AustinBrown1776)</sub>
 - [BTWIUseArch](https://x.ai/bot/ByvuU-9qFjsCd-NSKk2j9) — Arch Linux desktop/server helper. Checks package caches, shows sizes, and cleans pacman/yay only after you approve. <sub>by [Prakash](https://x.com/None) (@None)</sub>
+- [Bug Repro Desk](https://x.ai/bot/2LwTK7DV2YkOEwg7T0R6n) — Turns a ticket or screenshot into a staging repro pack another engineer can follow: exact steps, expected vs actual, environment, and evidence. <sub>by Gordan</sub>
 - [Bug Reproduction](https://x.ai/bot/s2d62197e15bd11a1bd63) <sup>official</sup> — Picks up the thread, clicks the same path in staging, captures the failure, and files a repro pack engineers can trust. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Build With Clarity](https://x.ai/bot/ZhjX4KoYZ76tyA8w4K3m-) — Patient building coach for non-coders using Cursor/Claude Code. <sub>by Rayan (@community)</sub>
 - [BuildFeed: Startups](https://x.ai/bot/7tob1iILCQ-5aELPbHSPn) — A guide to what founders, investors, and operators on YouTube actually say about starting, funding, selling, and staffing a company. Names who holds. <sub>by [Jake](https://x.com/buildfeedtech) (@buildfeedtech)</sub>
@@ -63,6 +64,7 @@
 - [Creador de tienda online](https://x.ai/bot/AJFbb3Epeafxp7m6jx3aI) — Spanish-language helper for building an online store from scratch, from platform, products, and domain to payments, shipping, and first sales. <sub>by [Karina](https://x.com/KarinaGeigner) · [origin](https://x.com/KarinaGeigner/status/2107301381409481127)</sub>
 - [Creador de tienda online](https://x.ai/bot/XD17acz3k6BsZXRsiiJBT) — Jargon-free Spanish version of the online store builder that walks through platform, products, domain, payments, shipping, and first sales. <sub>by [Karina](https://x.com/KarinaGeigner) · [origin](https://x.com/KarinaGeigner/status/2107298834414288982)</sub>
 - [Critiquito](https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM) — A design critic that reviews your UI screenshots and only has notes. <sub>by [Manuel](https://x.com/mamuso) (@mamuso) · [origin](https://x.com/mamuso/status/2093549356364501338)</sub>
+- [CTO](https://x.ai/bot/CYDQcpG8Oa2aAQkWE7fn1) — CTO for a product company. Owns how it is built, not what to ship. Sends work to cloud agents instead of writing code. <sub>by Blake</sub>
 - [Cursor Agent](https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR) — Runs the cursor-agent CLI locally for experiments and shop-floor work. <sub>by [Ryan](https://x.com/ryanthawks) (@ryanthawks) · aka *Cursor Agent (Local)* · [origin](https://x.com/ryanthawks/status/2093425622282375169)</sub>
 - [Dale](https://x.ai/bot/EEGUQoXtF1ViyFXzVrRnc) — A game builder that turns a one-line game idea into paste-ready Grok Build prompts: an opening build prompt, ordered refine prompts, and a playtest. <sub>by [Jim](https://x.com/Jim)</sub>
 - [Data](https://x.ai/bot/Sem0pTwrZmPJDU9WBAmHm) — Local-first data engineering and pattern intelligence. Builds offline pipelines, on-device vision, and local vector search with no telemetry or cloud. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
@@ -81,6 +83,7 @@
 - [Edge Eddie](https://x.ai/bot/6ifVQ1boABiMa6l0mODQW) — Account-level Cloudflare operator for edge, Zero Trust, WAF, bots/AI crawl, and Workers posture. Quiet weekday audits and SHIP-ready change recs — never. <sub>by [James](https://x.com/1KFlyr) (@1KFlyr) · [origin](https://x.com/1KFlyr/status/2103631583333015653)</sub>
 - [Engineer](https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv) — Outer-loop engineering manager: break work down, hand it to a build agent, prove it, bring back the receipt. Draft-only - never commit, push, merge, or. <sub>by [Andrew](https://x.com/andrewkittridge) (@Andrew Kittridge)</sub>
 - [Engineer](https://x.ai/bot/tGSpx-ZmfMi63a0GRy8FS) — An engineering specialist for engineering and engineering technologies (NCES CIP 14 and 15). It searches top engineering universities and official .gov. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
+- [Engineering Lead](https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh) — An engineering lead that owns the loop: breaks work into Cloud Agents, chases CI, reviews, and stalls on a weekday cadence.
 - [Engineering Loop PM](https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG) — Operator for Develop to Diagnose to Deploy that gates on Design equals Done. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
 - [Engineering QA](https://x.ai/bot/b2tS8BNj8BhoQNDcB081S) — Guards the merge bar on repos you pick, escalating only the real judgment calls. <sub>by [Andre](https://x.com/andreleibovici) (@andreleibovici) · [origin](https://x.com/andreleibovici/status/2095035963978522719)</sub>
 - [Estack](https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D) — Coding steward that locks objective and finish line before work starts. <sub>by [Rob](https://x.com/robannand) (@robannand) · [origin](https://x.com/robannand/status/2100393414642557000)</sub>
@@ -94,6 +97,7 @@
 - [Flip Checker](https://x.ai/bot/Lgcp50vUWRSmi4IOqrlTy) — Tells resellers whether an item is worth flipping. Send a name or photo and get real sold comps, fee and shipping math, a list price, and the max you. <sub>by [Pixel](https://x.com/JPipo86) (@JPipo86)</sub>
 - [Flora: Plant Care Log](https://x.ai/bot/dGYdqS9vLSXpxoNCPBHys) — Flora keeps a private houseplant care log and weekly reminders. She builds a plant journal on her computer that you can page through, and your plants do.
 - [Flowsery](https://x.ai/bot/tOP05p0n0XVUcpJDfPH0k) — Turns session recordings into a ranked list of things to fix. <sub>by [Taras](https://x.com/tarasshyn) (@tarasshyn) · [origin](https://x.com/tarasshyn/status/2093730218145976437)</sub>
+- [Flutter Mobile Engineer](https://x.ai/bot/9Hc4t4Ph2S82xjhJBc-_d) — Flutter/Dart engineering support for PR reviews, FVM-first test plans, and iOS/Android release hygiene. <sub>by Gordan</sub>
 - [Footage Fran](https://x.ai/bot/wpCpW4x3y4KcXPuX7Ya7h) — Helps you sort video clips into a clear, editable structure. Dump the chaos in; get folders and naming you can actually cut from. <sub>by [Frank](https://x.com/FrankFindsOut) · [origin](https://x.com/FrankFindsOut/status/2104735807072579966)</sub>
 - [Forecaster.biz Top 3 Buy Seasonality](https://x.ai/bot/Vei5asTtvm04HbJehqJER) — Pulls seasonality and pattern data from Forecaster.biz, draws locked 3y/5y/10y (+ best year) call cards with a bundled Python builder, and runs a. <sub>by [Corey](https://x.com/Corey)</sub>
 - [Forge](https://x.ai/bot/uF_uodOFUz9mdv6XDWE70) — One keyword in, a production-ready Grok Bot recipe out. <sub>by [Robert](https://x.com/rryssf) (@rryssf) · aka *Forge (Template Foundry)* · [origin](https://x.com/rryssf/status/2093423943243747773)</sub>
@@ -184,6 +188,7 @@
 - [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) — Audits one URL the way AI crawlers see it and drafts an llms.txt patch list. <sub>by [Eric](https://x.com/ericesoteric) (@ericesoteric) · [origin](https://x.com/ericesoteric/status/2102910573952508090)</sub>
 - [Pit Crew](https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1) — Tunes up the computer your bots run on: frees memory and disk, keeps updates flowing. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2103144210681700713)</sub>
 - [Playtest Operator](https://x.ai/bot/s2cfcbb8a38b8e22b7d18) <sup>official</sup> — Brute-force test the product path when APIs aren't enough. Drives the UI on a computer, captures failures, and returns a tight findings pack. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [PM bot](https://x.ai/bot/FeeqMRMJr2jwixCROZcIh) — Acts as your PM. Writes the dated cut: what's in, what's out, and how you'll know it's done. Engineering doesn't start until you approve it.
 - [Pod](https://x.ai/bot/lsyECsGbEgYpp6PdhDWR5) — Review-first eyes on a game or interactive product build sessions. <sub>by Quinn (@community)</sub>
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — Reviews pull requests risk-first. <sub>by [mustafa](https://x.com/mustafaergisi) · [origin](https://x.com/mustafaergisi/status/2093393924870058039)</sub>
 - [Product Feedback Analyst](https://x.ai/bot/s9e2a2591b97ca74fbeaa) <sup>official</sup> — Collects and clusters feedback from connected sources, weighs evidence against urgency, and drafts the prioritised view. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -234,6 +239,7 @@
 - [Stack Sentinel](https://x.ai/bot/osZS1pAzdIESMk33WNir0) — Pings you the moment a provider your build depends on admits a problem. <sub>by [sat0xshi](https://x.com/sat0xshi) · [origin](https://x.com/sat0xshi/status/2096802965676016066)</sub>
 - [Stagehand](https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ) — A WordPress integrator that edits staging and never touches live unasked. <sub>by [Patrick](https://x.com/pmconsulting) (@pmconsulting) · [origin](https://x.com/pmconsulting/status/2105104846940741797)</sub>
 - [Staging QA Tester](https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ) — A careful QA tester for any web app's staging site. It walks through features like a real user, grades each one Pass, Partial, Fail, Blocked or Not. <sub>by [Nic](https://x.com/njivy) (@njivy) · [origin](https://x.com/njivy/status/2103635667683311946)</sub>
+- [Steve Jobs](https://x.ai/bot/62-P66Nu4KJH99n7fdMzH) — A technical lead for a founder-run product. Specialists advise; this bot decides what is best technically unless the owner overrides. <sub>by Charlie</sub>
 - [Stills & Clips Desk](https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-) — Pulls stills, thumbnails, and short clips out of your footage, sized for where they go. Cleans up screenshots for docs too, and writes the caption and.
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) — Build and run Substreams blockchain data pipelines from chat. <sub>by [Graphtronauts](https://x.com/graphtronauts_c) (@graphtronauts_c) · [origin](https://x.com/graphtronauts_c/status/2094476749052555631)</sub>
 - [SWE Job Applier](https://x.ai/bot/ZNfBRZeVANNSVza6Xyywf) — Chases engineering internships using Simplify and your own letter template. <sub>by [Fiona](https://x.com/fwhittington_24) (@fwhittington_24) · [origin](https://x.com/fwhittington_24/status/2098810814668886087)</sub>
@@ -263,6 +269,7 @@
 - [WebMCP Eval & Build Guide](https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD) — Helps a site owner run WebMCP Eval on a URL, explain gaps in plain language, then turn those gaps into a short Webtools Build brief. For owners. <sub>by [Growth](https://x.com/fxopsAI) (@fxopsAI)</sub>
 - [Website Publisher](https://x.ai/bot/UuKqeb4npN9RsP1G3REFR) — Website SEO and docs habits with weekly Search Console routine plus Cloudflare Mintlify MailerLite PostHog Resend Playwright GitHub plugins. <sub>by [Ryan](https://x.com/ryanthawks) (@ryanthawks) · [origin](https://x.com/ryanthawks/status/2105811724485943716)</sub>
 - [WhatsApp-Bot](https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1) — Turns repeat WhatsApp Web chores into scripts you can replay. <sub>by [Alexandre](https://x.com/alexhawat) (@alexhawat)</sub>
+- [Workbench Systems](https://x.ai/bot/kcMHwterc33F-1FjGGnP3) — Agent Workbench systems specialist. Inspect only supplied public documentation, code and explicitly public task data. <sub>by Flux</sub>
 - [Wren: Game Design Partner](https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3) — Designs your game before anyone writes code: the concept, the core loop, what brings players back, and a build brief a developer or coding agent can. <sub>by [Xavier](https://x.com/ixef) (@ixef) · [origin](https://x.com/ixef/status/2104699157621678356)</sub>
 - [WWJCD — What Would Jesus Christ Do](https://x.ai/bot/OI3Qx1BLhYxG27y_OccCW) — Turns messy $cashtag dumps into distinct equity/ETF/tokenized/perp seats. <sub>by [Pat](https://x.com/PatNeville7) (@PatNeville7)</sub>
 - [X Algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) — Helps X posters decide when to quote, ship a new post, or wait. Reads the public For You ranking code and live post metrics. <sub>by [Matt](https://x.com/mattyp) (@mattyp)</sub>

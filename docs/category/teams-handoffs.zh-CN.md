@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-215 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+218 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -95,6 +95,7 @@
 - [Full-Spectrum Law Firm OS](https://x.ai/bot/EQgLIMO5Q_sVk3iM9EQbZ) — 德州律所运营系统，家事、民事、刑事、遗产四类案件全流程，从接案和利益冲突检查做起。 <sub>作者 [JC](https://x.com/JoshuaRCook) (@JoshuaRCook)</sub>
 - [Funhouse](https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5) — 给 Grok Bot 应用换主题、宠物和叠层。 <sub>作者 [Adem](https://x.com/AdemVessell) (@AdemVessell) · [出处](https://x.com/AdemVessell/status/2093869927753224689)</sub>
 - [Gatekeeper](https://x.ai/bot/T5FSfM91XA6gMgh2rX56K) — 在你答应新事先，摊开你得放下什么。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383132137279825)</sub>
+- [Gong](https://x.ai/bot/8CwqNTk5VBBhEAnTyUIHi) — 端到端负责招聘执行的招聘专员：写职位描述、发布招聘、搜候选人、起草联系信。 <sub>作者 Chuck</sub>
 - [Gonzalo's SMB manager](https://x.ai/bot/G0GVoN9xUbXFucwWz539v) — 把客户赢回来、把明天排满，每一步都要老板点头。 <sub>作者 [Josh](https://x.com/joshkim) (@joshkim) · [出处](https://x.com/joshkim/status/2093579852955975761)</sub>
 - [Grant General Manager](https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_) — 工匠公司的总经理，把后台从零搭起来。 <sub>作者 [Jon](https://x.com/HouseHackerJon) · [出处](https://x.com/HouseHackerJon/status/2093435306255220830)</sub>
 - [GRIDSTORM Squad Mate](https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4) — 几何战争风格街机队友，可与你的机器人同场。 <sub>作者 [Matthew](https://x.com/TheMattyFG) (@TheMattyFG) · [出处](https://x.com/TheMattyFG/status/2104267198407536878)</sub>
@@ -169,6 +170,7 @@
 - [Same Language](https://x.ai/bot/wdBvHoTAcc4fqxNbOkVnA) — 你用的词有歧义时只问一句，同一种理解出现三次就变成全队机器人都能读的规则。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2106817890691285350)</sub>
 - [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) — 公开再发布前先审计私有 Bot，清洗双胞胎再只从双胞胎打包。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Seed](https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT) — 一场对话搭起完整软件研发流水线，按阶段雇 bot 分工。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn) · 社区旧称 *Seed 7D*</sub>
+- [Senior JD](https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q) — 给手里有一份弱职位描述、要招资深岗位的招聘经理和创始人。 <sub>作者 Sol</sub>
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) — 修理你手头其它 Grok 机器人的维修台。 <sub>作者 [Louie](https://x.com/SpaceGarbage202) (@SpaceGarbage202) · [出处](https://x.com/SpaceGarbage202/status/2104905404471820712)</sub>
 - [shane hunter](https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-) — 把你不想要的 Bot 从桌面应用里清掉。 <sub>作者 [Andrew](https://x.com/rightish19) (@rightish19) · [出处](https://x.com/rightish19/status/2093761406545834296)</sub>
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — 元 Bot：牧管你整支 Grok Bot 舰队，搭配 herdr 工具使用。 <sub>作者 [Can](https://x.com/herdrdev) (@herdrdev) · [出处](https://x.com/herdrdev/status/2094129284885467399)</sub>
@@ -197,6 +199,7 @@
 - [thrift](https://x.ai/bot/3hFbbjddl7VpY2oRACKBB) — 审计你养着的一堆 Bot，砍掉空转的 token 开销。 <sub>作者 [Mario](https://x.com/kleosrr) (@kleosrr) · [出处](https://x.com/kleosrr/status/2096740273254535396)</sub>
 - [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) — 把一个 API 收成其他 Bot 能直接接上的插件。 <sub>作者 [Lauren](https://x.com/DenisLabelle) (@DenisLabelle) · [出处](https://x.com/DenisLabelle/status/2094886573711970614)</sub>
 - [Training Coordinator](https://x.ai/bot/jH1L_MTl1J1in5dodrxyd) — 确保每个队友机器人每月找到实战培训，并归档可共享要点。 <sub>作者 [Carlo](https://x.com/SuperHumanATX) · [出处](https://x.com/SuperHumanATX)</sub>
+- [tree counter](https://x.ai/bot/GUoroKpfPq-CLL_206JzT) — 用 Google 街景数树，再和城市行道树数据比对，带 agent 交接队列，每次跑完一条街或一个子邮编。 <sub>作者 [wreinhardt](https://x.com/wreinhardt)</sub>
 - [trimmy](https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa) — 读取你指定的机器人，并排展示可删减的上下文和每处能省下的记忆，你批准后才改。 <sub>作者 [Tim](https://x.com/TimDOES) · [出处](https://x.com/TimDOES/status/2107249648582967510)</sub>
 - [Tuner](https://x.ai/bot/3n26nkAkMjk5EZcKJlo9w) — 读其他 Bot 最近产出，给跑偏的那几个起草修正。 <sub>作者 [Mert](https://x.com/humanmeteorite) (@humanmeteorite) · [出处](https://x.com/humanmeteorite/status/2094888371147424048)</sub>
 - [Tuong Lu Kim](https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv) — 在你的智能体栈里找出同样结果更省钱的路径。 <sub>作者 [Stephen](https://x.com/MadeItHappenX) (@MadeItHappenX) · 社区旧称 *Cost Optimizer* · [出处](https://x.com/MadeItHappenX/status/2095072492700455159)</sub>

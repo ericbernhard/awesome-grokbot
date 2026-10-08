@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-238 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+240 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -117,6 +117,7 @@
 - [Invoice Coordinator](https://x.ai/bot/s072bae9387b9fc03cac8) <sup>官方</sup> — 别让发票压着：转单、能配的自动配、盯实际支出，缺人处理就去催对应负责人。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Invoice Hunter](https://x.ai/bot/-kO6HrXokJZANVwUOMZO9) — 从 Gmail 里找出发票 PDF，把一个月打成一份表格。 <sub>作者 [Andrej](https://x.com/scheemunai) · [出处](https://x.com/scheemunai/status/2093398873247031468)</sub>
 - [Invoice Mirror](https://x.ai/bot/HwckXN5Yd1uxRu86msyfj) — 保持 Harvest 与 Balances 发票同步，每日从 Harvest 创建或更新到 Balances。 <sub>作者 [Jerrod](https://x.com/jerrodtuck)</sub>
+- [Invoice Terminator](https://x.ai/bot/oIcq3e3tuwYIaPIkmx0cF) — 每月截止前把公司软件开支的发票收齐，别让漏填的表单吃掉一张发票。 <sub>作者 say</sub>
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) — Kalshi 研究席位，专管单一市场并把下单记录在案。 <sub>作者 [Jodi](https://x.com/WorkWithJodi) · [出处](https://x.com/WorkWithJodi/status/2101113469185474972)</sub>
 - [Laggy8](https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY) — 十万软顶的Mag8落后股袖仓，对美股巨头排名并挑最落后的一只做研究与执行。 <sub>作者 [Sachiv](https://x.com/SachivM99) (@SachivM99)</sub>
 - [Lease Finder](https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1) — 全国找当前汽车租赁优惠，盯对标价折扣最深的。 <sub>作者 [Danny](https://x.com/dannymacias) (@dannymacias) · [出处](https://x.com/dannymacias/status/2093409778265694256)</sub>
@@ -162,6 +163,7 @@
 - [Privacy Ops](https://x.ai/bot/ZfnCBw8WnIgMynLlika6H) — 数据经纪与死账号清理队列，找曝光与遗忘登录，起草下架与删除请求。 <sub>作者 [Mb](https://x.com/MehlyHQ4m) (@MehlyHQ4m)</sub>
 - [Profit Finder](https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7) — Bob Fifer 模式利润运营者，定价、包装、砍成本。 <sub>作者 [Jon](https://x.com/JonStenstrom) (@JonStenstrom)</sub>
 - [Property Decision OS](https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R) — 住宅置业决策助手，帮你评估比较出价与成交，但不催你买。 <sub>作者 [Amervim](https://x.com/Amervim) · [出处](https://x.com/Amervim/status/2105949142426288483)</sub>
+- [Property Scanner](https://x.ai/bot/-4Hs8iXe_p6Cfc1IRbilu) — 用 ZillAPI 找可能被低估的美国房子：先了解买家，再按附近成交价给挂牌排序。 <sub>作者 Rohit</sub>
 - [Prospector SR360](https://x.ai/bot/TYiFIZd7djkcCy_wdymgv) — 本地商业指南的销售助理，在 Google 地图上找强商家，整理免费基础卡片并推进付费档。
 - [Prosperity](https://x.ai/bot/WnmSSUCTg1nHnRUboOpzK) — 私下照看家庭财务容量，只向团队共享模式，不给投资建议。 <sub>作者 [Ben](https://x.com/BinLeenk) (@Ben Link) · [出处](https://x.com/BinLeenk/status/2100201471018946640)</sub>
 - [Proto Calvin](https://x.ai/bot/PP2AhHmXXJgwo46iyFX93) — 为本地守护进程设定二进制序列化与握手规则。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>

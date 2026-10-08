@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-215 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+218 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -95,6 +95,7 @@
 - [Full-Spectrum Law Firm OS](https://x.ai/bot/EQgLIMO5Q_sVk3iM9EQbZ) — Texas law-firm OS: intake, conflict checks and service packages across family, civil, criminal and probate work. <sub>by [JC](https://x.com/JoshuaRCook) (@JoshuaRCook)</sub>
 - [Funhouse](https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5) — Restyles the Grok Bot app itself with themes, pets and overlays. <sub>by [Adem](https://x.com/AdemVessell) (@AdemVessell) · [origin](https://x.com/AdemVessell/status/2093869927753224689)</sub>
 - [Gatekeeper](https://x.ai/bot/T5FSfM91XA6gMgh2rX56K) — Shows you what you would have to drop before you say yes to something new. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383132137279825)</sub>
+- [Gong](https://x.ai/bot/8CwqNTk5VBBhEAnTyUIHi) — Recruiter specialist that owns hiring execution end-to-end: job descriptions, board posts, candidate sourcing, outreach drafts. <sub>by Chuck</sub>
 - [Gonzalo's SMB manager](https://x.ai/bot/G0GVoN9xUbXFucwWz539v) — Wins back customers and fills tomorrow, with the owner approving each step. <sub>by [Josh](https://x.com/joshkim) (@joshkim) · [origin](https://x.com/joshkim/status/2093579852955975761)</sub>
 - [Grant General Manager](https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_) — A general manager for a trades company that stands up the back office. <sub>by [Jon](https://x.com/HouseHackerJon) · [origin](https://x.com/HouseHackerJon/status/2093435306255220830)</sub>
 - [GRIDSTORM Squad Mate](https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4) — Co-op arcade squad mate for Geometry Wars style play with your bots. <sub>by [Matthew](https://x.com/TheMattyFG) (@TheMattyFG) · [origin](https://x.com/TheMattyFG/status/2104267198407536878)</sub>
@@ -169,6 +170,7 @@
 - [Same Language](https://x.ai/bot/wdBvHoTAcc4fqxNbOkVnA) — Asks one short question when your word could mean two things, and turns three consistent answers into a fleet-wide rule. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2106817890691285350)</sub>
 - [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) — Gates public republish by auditing the private bot, scrubbing a twin, and packing from the twin only. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Seed](https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT) — Stand up a real software SDLC in one conversation: team of phase bots, SevenD gates, and a hard copy in your repo — you stay the boss at the approvals. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn) · aka *Seed 7D*</sub>
+- [Senior JD](https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q) — For hiring managers and founders with a weak job post and an open senior role. <sub>by Sol</sub>
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) — A repair desk for the other Grok bots you run. <sub>by [Louie](https://x.com/SpaceGarbage202) (@SpaceGarbage202) · [origin](https://x.com/SpaceGarbage202/status/2104905404471820712)</sub>
 - [shane hunter](https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-) — Clears bots you no longer want out of the desktop app. <sub>by [Andrew](https://x.com/rightish19) (@rightish19) · [origin](https://x.com/rightish19/status/2093761406545834296)</sub>
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — A meta-bot that herds your whole fleet of Grok bots, paired with the herdr tool. <sub>by [Can](https://x.com/herdrdev) (@herdrdev) · [origin](https://x.com/herdrdev/status/2094129284885467399)</sub>
@@ -197,6 +199,7 @@
 - [thrift](https://x.ai/bot/3hFbbjddl7VpY2oRACKBB) — Audits a sprawling bot fleet and cuts idle token spend. <sub>by [Mario](https://x.com/kleosrr) (@kleosrr) · [origin](https://x.com/kleosrr/status/2096740273254535396)</sub>
 - [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) — Turns an API into a plugin your other bots can just pick up and use. <sub>by [Lauren](https://x.com/DenisLabelle) (@DenisLabelle) · [origin](https://x.com/DenisLabelle/status/2094886573711970614)</sub>
 - [Training Coordinator](https://x.ai/bot/jH1L_MTl1J1in5dodrxyd) — Makes sure every teammate bot finds field training monthly and files shared takeaways. <sub>by [Carlo](https://x.com/SuperHumanATX) · [origin](https://x.com/SuperHumanATX)</sub>
+- [tree counter](https://x.ai/bot/GUoroKpfPq-CLL_206JzT) — Counts street trees from Google Street View and compares them to city inventory data, with an agent handoff queue so each visit finishes one street or sub-ZIP. <sub>by [wreinhardt](https://x.com/wreinhardt)</sub>
 - [trimmy](https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa) — Reads the bots you name and proposes context cuts side by side with how much memory each trim wins back, applied only on your approval. <sub>by [Tim](https://x.com/TimDOES) · [origin](https://x.com/TimDOES/status/2107249648582967510)</sub>
 - [Tuner](https://x.ai/bot/3n26nkAkMjk5EZcKJlo9w) — Reads what your other bots have been producing and drafts fixes for the ones drifting. <sub>by [Mert](https://x.com/humanmeteorite) (@humanmeteorite) · [origin](https://x.com/humanmeteorite/status/2094888371147424048)</sub>
 - [Tuong Lu Kim](https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv) — Finds the less expensive route to the same result across your agent stack. <sub>by [Stephen](https://x.com/MadeItHappenX) (@MadeItHappenX) · aka *Cost Optimizer* · [origin](https://x.com/MadeItHappenX/status/2095072492700455159)</sub>
