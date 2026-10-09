@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-240 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+248 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -15,12 +15,14 @@
 - [Adventure Photography Bot](https://x.ai/bot/-0bgFr7-a5pUPscGVqAe3) — 为 Ama Dablam 攀登与伙伴跑赞助外联。 <sub>作者 [Kai](https://x.com/kaiphotojawn) (@kaiphotojawn)</sub>
 - [AE deal bot](https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe) — 按 MEDDPICC 给在谈的单打分，并指出下一步。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2094802082750673227)</sub>
 - [Affiliate Bot](https://x.ai/bot/c1piN2Xxi9sioVfhg4pph) — 盯你推广品牌站的上新、补货、低库存与降价促销。 <sub>作者 [Redmist2033](https://x.com/Redmist2033)</sub>
+- [After-Hours Receptionist](https://x.ai/bot/L-Peiv65iI_logfpgoPQ_) — 小商家下班后的线索收集和预约助手。 <sub>作者 Robert</sub>
 - [Ag bot](https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh) — 按原料就近找真实种植户与供应商，并给出排序。 <sub>作者 [Blaze](https://x.com/BlazeDrinkwine) · [出处](https://x.com/BlazeDrinkwine/status/2100778715823149078)</sub>
 - [Agent Master](https://x.ai/bot/SuVx773sE53S1GfSmamKb) — 多智能体调度，保证任务有主有序。 <sub>作者 [John](https://x.com/JohnWalker) · [出处](https://x.com/JohnWalker/status/2104367259053441470)</sub>
 - [AI Search Visibility](https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X) — 检查 AI 助手与谷歌会不会推荐你、又点了谁的名，从买家真会问的问题起步。
 - [Ally](https://x.ai/bot/K4xNPsHhEMOnjN55Au-hf) — 伙伴营销与渠道GTM顾问，用销售数据搭伙伴计划并推动渠道落地。 <sub>作者 [Mike](https://x.com/MikeCast) (@MikeCast)</sub>
 - [Apple Search Ads Review](https://x.ai/bot/gadc3bVOsg9iIwmzAGRve) — 按目标安装成本审 Apple Search Ads 花费，起草关键词、出价与预算改动，不动账户。
 - [Apply Scout](https://x.ai/bot/nTTQ_v9iaWJMfMX3R3L1S) — 找工作并起草量身简历。 <sub>作者 [lmdev](https://x.com/lmdev)</sub>
+- [AutoOutreach SDR](https://x.ai/bot/BFOjQ_Gg_sQi5pJ-Q05UW) — 趁你睡觉帮你约会议的 Grok Bot。 <sub>作者 jon</sub>
 - [Big Tony](https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm) — 对付 AI 客服的强硬代理人，帮你取消、退款与索赔。
 - [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) — X 与竞赛运营机器人，连接 X、读现场竞赛规则、起草克隆向内容。 <sub>作者 [Tor](https://x.com/TorranceMiller) (@TorranceMiller)</sub>
 - [Business Loop PM](https://x.ai/bot/buqKPC6jkQxBPdY93HL-w) — 按获取、变现、留存跑 Launch 商务环，绝不编造线索。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
@@ -91,7 +93,6 @@
 - [Gotcha Grid](https://x.ai/bot/TemeQ_BwE1Vbnv7eIanfp) — 供应商报价并排陷阱对照表。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Grillo](https://x.ai/bot/0K8ZjhfS8SUgIRKt9hS0T) — 独立机队良心，用运行时行为证明回答每个代理是否守规矩，不修不罚不发帖不背书。 <sub>作者 [Gidanc](https://x.com/aiassesstech) (@aiassesstech)</sub>
 - [Grok Bot](https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC) — 套用营销 GTM 模板，选合品牌版式，填好客户讲稿给你审。 <sub>[出处](https://x.com/scottxmetcalf/status/2099551915164217627)</sub>
-- [Grok Customer Support](https://x.ai/bot/1PSI6qQln1PowM5reA_8L) — 替你在客服电话里排队等待。 <sub>作者 [Jake](https://x.com/jakewlittle) (@jakewlittle) · [出处](https://x.com/jakewlittle/status/2095356264830103657)</sub>
 - [Grok Customer Support](https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf) — Eggbot 精简版 Twilio 加 Grok Voice 桥，替你打客服电话。 <sub>作者 [Brent](https://x.com/littletechbird) (@littletechbird)</sub>
 - [Growth](https://x.ai/bot/yDxUZegF6GnO_Kym-qewf) — 设计师求职运营，Airtable跟岗位、周一管道脉搏、申请前证据包，每次写入都要你确认。 <sub>作者 [Steven](https://x.com/stevenvillarino) (@stevenvillarino) · [出处](https://x.com/stevenvillarino/status/2104712906025882077)</sub>
 - [GTM Chief Of Staff](https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b) — 扛下企业单周边行政，让你专心卖。 <sub>作者 [Sultanov](https://x.com/thekuchh) · [出处](https://x.com/thekuchh/status/2093742276564459867)</sub>
@@ -140,6 +141,7 @@
 - [ListBot — eBay Listing Generator](https://x.ai/bot/RHzmeKCzRqayDEgEqUNea) — 一张照片生成完整eBay上架，含成交价、80字标题、结构化描述与含费定价。 <sub>作者 [Pixel](https://x.com/JPipo86) (@JPipo86) · [出处](https://x.com/JPipo86/status/2104737083202183428)</sub>
 - [Listing Polish](https://x.ai/bot/v-rXX1htNDDMR110ZovcW) — 改写Airbnb/VRBO与Etsy上架文案，提高转化却不写得像垃圾广告。 <sub>作者 [Mrunknown.cro](https://x.com/Omenfinancial) (@Omenfinancial)</sub>
 - [Lobster Agents](https://x.ai/bot/XECw-q9SY0rMprOq66UTt) — 二十八个 AI 代理组成一家真公司，覆盖工程、设计、测试、数据、营销、销售、法务等席位。 <sub>作者 [Marc](https://x.com/MarcMojica) (@MarcMojica) · [出处](https://x.com/MarcMojica/status/2100012447579177209)</sub>
+- [Local Business Website Hunter](https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG) — 找没有网站的本地商家，用其公开资料做演示站，并起草报价和推销邮件，等你批准再发。 <sub>作者 [Kevin](https://x.com/NewLongMoney) (@NewLongMoney) · [出处](https://x.com/NewLongMoney/status/2108069128846328185)</sub>
 - [Local Leads Finder](https://x.ai/bot/20XAOL-rGYHvg0BvJgXLz) — 销售线索与触达助手。 <sub>作者 Bryan (@community)</sub>
 - [Lookalike Scout](https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI) — 从一个对口客户扩出同类公司，并确认里面谁能拍板。 <sub>作者 [Taus](https://x.com/ShehjadTaus) (@ShehjadTaus) · [出处](https://x.com/ShehjadTaus/status/2098538235303735484)</sub>
 - [Luma Pages](https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY) — 为场地营销搭并更新私密 Luma 活动页，含文案、品牌、报名、容量候补与名单导出。
@@ -157,9 +159,11 @@
 - [Novel Workshop Lead](https://x.ai/bot/blWboTjWqU1Nf58X29RYY) — 协调多代理小说工坊，角色代理、节奏与声音轮流写作并汇总。 <sub>作者 [Nicolas](https://x.com/pioupsi) (@pioupsi)</sub>
 - [Nummie](https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq) — 增长团队的 PLG 数字台，回答时给出数字、定义、来源查询与限制，只读不瞎估。 <sub>作者 [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
 - [Onboarder](https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN) — 带第一次上手的客户一步一步接好每个服务直到能用，然后自己退场。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2106819904804413546)</sub>
+- [One-Page Bid](https://x.ai/bot/uaqH_2upECHDL-Pn3cKEY) — 给刚开完需求或销售电话的顾问、自由职业者和代理老板写一页报价方案。 <sub>作者 Sol</sub>
 - [Order Desk](https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0) — 查订单并管理库存。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [出处](https://x.com/ColinMcDermott/status/2105790820318359680)</sub>
 - [Outbound Sales](https://x.ai/bot/bS2mwnm10pWqcms_RzTI0) — 给 B2B 团队的自主外联 SDR：研究并给潜在客户打分，起草多轮触达序列，处理回复。 <sub>作者 Jeroen</sub>
 - [Outbound Sales Desk](https://x.ai/bot/_F4QaOQDrr6Rh4OpkfaaM) — 按理想客户画像建潜在客户名单，起草个性化开场，严格执行三次触达后关闭线索。 <sub>作者 [Charles](https://x.com/ASaltyVet) · [出处](https://x.com/ASaltyVet/status/2107323794478211249)</sub>
+- [Outreach Agent](https://x.ai/bot/wexM_NUvEByvLwrnTR_F3) — 给创始人和销售团队的每日暖外联操盘手，先压着不发等你过目。 <sub>作者 [Eric](https://x.com/ericosiu)</sub>
 - [P.C.A. Roshi](https://x.ai/bot/ZGrwyUduJe4XvVspPsz3Z) — 个人健康护理代理，冷静务实，帮你找零费用或优先路径并导航下一步。 <sub>作者 [𝔻](https://x.com/durdy1) (@durdy1)</sub>
 - [Paid Media Report Desk](https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE) — 把 Google Ads、Meta 与 LinkedIn 导出收成带点评的周报，并在 Slack 用真数回答。
 - [PaySplit](https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn) — 跟踪团体旅行、活动与礼物的分摊费用，读全球支付确认，并安静催迟到付款方。 <sub>作者 [Dr.](https://x.com/SurrealSpin) (@SurrealSpin)</sub>
@@ -200,7 +204,9 @@
 - [Sales Outbound](https://x.ai/bot/s8ff03023f140bab479f7) <sup>官方</sup> — 调研和外呼都交出去：夜里研究客户、按意图打分、用你的口吻写好邮件和领英，留给你过一遍。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Scout](https://x.ai/bot/Axr06_abjVj29IjBhJrQ_) — 找出已在用产品且准备加购的账户，区分自助升级与销售 PQL。 <sub>作者 [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
 - [SE call bot](https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE) — 客户通话进行中，给售前工程师做实时后援。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2094066260376166500)</sub>
+- [Second Look](https://x.ai/bot/1xkIClLvscskj-Q4LsQIy) — 对照平台规则检查被封 GitHub 账号的仓库，引用疑似违规及证据，并写好申诉信由你自己发送。 <sub>作者 [Nomis](https://x.com/cradrrat) (@cradrrat) · [出处](https://x.com/cradrrat/status/2108335312669986890)</sub>
 - [Security Warden](https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6) — 在其他机器人发消息、删东西或跑命令前先审一遍，查有没有泄露密钥和个人信息。 <sub>作者 [Mayur](https://x.com/myrrazor) · [出处](https://x.com/myrrazor/status/2107173982742987135)</sub>
+- [Sell Bot](https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ) — 跑完整个客户旅程：用你的语气外联，约好电话并准备和跟进，提案合同，再到开通。
 - [Sentinel](https://x.ai/bot/NAFAT-NGrQ7-zLccn4qg1) — 保险营销文案的合规官：发布前审查外发邮件、网页和博客。 <sub>作者 Gregory</sub>
 - [Sequencer](https://x.ai/bot/6xnxd_CHg0cXVMQCwnRrZ) — 把外联序列当成职能来跑：连接工具，从 Gmail 和 CRM 学语气和 ICP，在表格里维护序列状态，每次触达都先存草稿。
 - [SERP SPECIALIST](https://x.ai/bot/262LyEVXcAKuQuohFeXop) — 按 niche 与城镇拉真实搜索量，找出能赢的 SERP 并生成排名计划与预览站。 <sub>作者 [Corey](https://x.com/ascndnt_alchmy) (@ascndnt_alchmy) · [出处](https://x.com/ascndnt_alchmy/status/2105762984962195868)</sub>
@@ -209,6 +215,7 @@
 - [Shop Compare](https://x.ai/bot/7EGBWWDrvgujhdOLCIrNi) — 下单前对比公开商品信息做比价调研。 <sub>作者 Luke</sub>
 - [Shop Processes](https://x.ai/bot/TkoRVSXsTCUnx4427FKnw) — 食品厂、代工或调味料店的常设运营桌，从销售订单到原料采购、按预测做自制或外购，以及包装核对。 <sub>作者 [Vince](https://x.com/VinceWilliams21) (@VinceWilliams21) · [出处](https://x.com/VinceWilliams21/status/2100013315321933905)</sub>
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) — 面向 ShopFloor 风格 Etsy 数字店的运营桌，起草上架、客服与节奏。 <sub>作者 [Dex](https://x.com/Dex_01_) (@Dex_01_)</sub>
+- [Shopify Bot](https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE) — 通过官方插件日常打理 Shopify 店铺：整理商品、盯库存、优化转化、回复顾客问题。 <sub>作者 [Nicholas](https://x.com/nick_nehaul) (@nick_nehaul) · [出处](https://x.com/nick_nehaul/status/2108304525866193171)</sub>
 - [Signal Prospector](https://x.ai/bot/wsbOPOkHApmIYLrErnC4e) — 在 CRM 和产品数据里找刚表现出意向的客户和人，排序后起草第一封触达。
 - [skippy](https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx) — 旧金山扫街助手，贴地图钉或路口，就告诉你该路缘下次公示清扫时间。
 - [Social Media Manager](https://x.ai/bot/s634cb1edf26493e86be2) <sup>官方</sup> — 用你的口吻发帖但不用泡在草稿箱：学你历史发言，有值得说的就写好存着等你发。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -240,6 +247,7 @@
 - [Webb Knox](https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk) — 按证据评分找线索并起草首封触达。 <sub>作者 [Rardo](https://x.com/gerardocasta711) (@gerardocasta711) · [出处](https://x.com/gerardocasta711/status/2103983798622806061)</sub>
 - [Website agency lead scout](https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ) — 每天早上交出五家需要新网站、已经筛过的商家。 <sub>作者 [Josh](https://x.com/joshkim) · [出处](https://x.com/joshkim/status/2093586339086352806)</sub>
 - [X Marketing Lead](https://x.ai/bot/hI9VYNVWhcqA5agQ1OETW) — 围绕 X Ads、X Premium Business 与 Grok 的营销负责人，给任意创始人跑增长。 <sub>作者 [Joe](https://x.com/JoeSimo)</sub>
+- [X Signal Prospector](https://x.ai/bot/1PSI6qQln1PowM5reA_8L) — 替你在客服电话里排队等待。 <sub>作者 [Jake](https://x.com/jakewlittle) (@jakewlittle) · 社区旧称 *Grok Customer Support* · [出处](https://x.com/jakewlittle/status/2095356264830103657)</sub>
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) — 为社交拍照应用协调专家机器人群，含世界瞬间侦察、营销等席位。 <sub>作者 [Atlan](https://x.com/zealt_today) (@zealt_today)</sub>
 - [Zephyr](https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU) — OneStepGPS 车队的前台助手，帮你查信息，改应用设置前每一项都先问你。 <sub>作者 [Zachary](https://x.com/ZachFergus) · [出处](https://x.com/ZachFergus/status/2107254444702433752)</sub>
 - [Zoho Small Business Operator](https://x.ai/bot/jvdlRiNID5653J-EMH1q3) — 不用开 12 个标签页就能跑 Zoho 生意：现金、CRM、客户和营销活动，草稿备好，你点头才发。 <sub>作者 Ev</sub>

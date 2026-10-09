@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-10-07",
+  "checked": "2026-10-09",
   "entries": [
     {
       "slug": "bot-creator",
@@ -356,6 +356,115 @@
       ],
       "first_seen": "2026-10-02",
       "checked": "2026-10-07",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "rizalbot",
+      "name": "RIZALBOT",
+      "author": {
+        "name": "Яizal",
+        "handle": "AetaneoRizal",
+        "url": "https://x.com/AetaneoRizal"
+      },
+      "summary": "On-device companion continuity for an offline-capable AI app - ping/pong, feed ops, mind handoffs, and Function 0 gain-first decisions alongside a...",
+      "summary_zh": "面向可离线 AI 应用的端上陪伴连续性，含心跳、信息流、心智交接与增益优先决策。",
+      "official_summary": "On-device companion continuity for an offline-capable AI app — ping/pong, feed ops, mind handoffs, and Function 0 gain-first decisions alongside a...",
+      "import": "https://x.ai/bot/Af9XNmozBcRoZM85eylOW",
+      "bot_id": "Af9XNmozBcRoZM85eylOW",
+      "category": "coding-shipping",
+      "tags": [
+        "engineering",
+        "design",
+        "automation"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-21",
+      "checked": "2026-10-09",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "little-x",
+      "name": "Little x",
+      "author": {
+        "name": "david",
+        "handle": "DonaldMoor91672",
+        "url": "https://x.com/DonaldMoor91672"
+      },
+      "summary": "Drives X and document tasks by email while you are away",
+      "summary_zh": "人不在时用邮件指挥发帖与文档任务。",
+      "official_summary": "Workday ops desk that runs when you can’t open the app — email commands (x:), X drafts and pushes, doc retrieval, and crypto alerts to your phone.",
+      "import": "https://x.ai/bot/KTMYJjzan8cuclz2lv1Rz",
+      "bot_id": "KTMYJjzan8cuclz2lv1Rz",
+      "category": "inbox-calendar",
+      "tags": [
+        "ops",
+        "email",
+        "monitoring",
+        "scheduled"
+      ],
+      "origin": "https://x.com/DonaldMoor91672/status/2100437844808319149",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-19",
+      "checked": "2026-10-09",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "porter",
+      "name": "Porter",
+      "author": {
+        "name": "Daryl",
+        "handle": "darylbleach",
+        "url": "https://x.com/darylbleach"
+      },
+      "summary": "Lifts your whole line-up of bots across to another app or account",
+      "summary_zh": "把整支 Bot 花名册搬到另一个应用或账号。",
+      "official_summary": "Moves a Grok Bot roster from one app to another. Inventories every teammate, packs jobs, memories, and standing routines, then recreates them on the...",
+      "import": "https://x.ai/bot/cl7kIRbcIuP6jj2Zt8z5K",
+      "bot_id": "cl7kIRbcIuP6jj2Zt8z5K",
+      "category": "personal-admin",
+      "tags": [
+        "migration",
+        "ops",
+        "fleet"
+      ],
+      "origin": "https://x.com/darylbleach/status/2094747777343324629",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-02",
+      "checked": "2026-10-09",
       "link_status": 404,
       "license": "CC-BY-4.0"
     }

@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-240 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+244 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -31,6 +31,7 @@
 - [Bound](https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh) — Weekly FastBound A&D auditor for FFL dealers. Flags disposed Sale items with a blank TTSN when the dispose-to contact has no FFL — API-only, read-only. <sub>by [Jason](https://x.com/Jasonturcotte) (@Jasonturcotte) · [origin](https://x.com/Jasonturcotte/status/2103641289480982601)</sub>
 - [Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf) — Digs through your email and bills for refunds and credits you never chased. <sub>by [Liam](https://x.com/liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383127162925558)</sub>
 - [Bronn](https://x.ai/bot/dmdieR7YwBkRJN5xYKnn6) — Capital Raise IR bot for any round. Finds 1st-degree LinkedIn investors, drafts veiled openers + a Day 4–5 one-liner, and sends the DMs itself on a safe. <sub>by [Darren](https://x.com/darrenmarble) (@darrenmarble)</sub>
+- [Buildertrend Invoice Desk](https://x.ai/bot/igyfOAUWRXvTZbDj2J__S) — A teammate that pulls home-build invoices from Buildertrend, builds a local dashboard. <sub>by Brian</sub>
 - [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) — Books, payroll, and tax drafts from source docs for small businesses — fill and advise only under US GAAP/AICPA-style practice. Never e-files or moves. <sub>by [Roman](https://x.com/RomanPotapovBiz) (@RomanPotapovBiz)</sub>
 - [Business Profile](https://x.ai/bot/qHgP-l6Z1rFXMv3qUbQQ5) — Publishes one Google Business Profile Update on a Mon/Wed/Fri morning cadence from a spreadsheet queue. Verifies each CTA URL, skips duplicates, and. <sub>by [AdvancedBusinessSyst](https://x.com/abstally) (@abstally)</sub>
 - [Car Chaser](https://x.ai/bot/_xHffm8tWVvtVic-aJmwa) — Car search with the IF/THEN and OR rules that site filters can't handle, like "under $37k with 3 owners or less, or up to $45k as a single owner." Car. <sub>by [Bryan](https://x.com/ibelevy) (@ibelevy)</sub>
@@ -71,6 +72,7 @@
 - [DeckLens](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) — Interviews you to build a review rubric, then scores pitch decks against it. <sub>by [Brian](https://x.com/BrianDEvans) (@BrianDEvans) · aka *DeckLens (Pitch Deck Analyzer)* · [origin](https://x.com/BrianDEvans/status/2093386518375346484)</sub>
 - [Dero](https://x.ai/bot/OMpdsLwId7Du5PrjbX8L8) — Runs the pipeline on Chilean municipal tender documents. <sub>by [Jorge](https://x.com/jorgesoffia) (@jorgesoffia) · [origin](https://x.com/jorgesoffia/status/2099936875498627530)</sub>
 - [Druski](https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq) — Chief of staff for a productized-services founder. Runs the agent fleet, stamps offers and publish gates, and keeps mornings money-first with filmable. <sub>by [Shawn](https://x.com/topshoh) (@topshoh)</sub>
+- [Duty First](https://x.ai/bot/ZNrJWoDe9kUzXB4QG8xVT) — Own instrument-aware trust accounting and reporting. Read the governing instrument first. Classify every receipt and disbursement as principal or income. <sub>by Steve</sub>
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) — Builds numbered, no-hype earnings tearsheets and a ticker watch list. Writes up when a watched name prints. <sub>by [Sachiv](https://x.com/SachivM99) · [origin](https://github.com/keshav-exe/bot-directory)</sub>
 - [Edna](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) — Plans award travel around your home airport, points and status. <sub>by [DJ](https://x.com/congressdj) (@congressdj) · aka *Travel Guru* · [origin](https://x.com/congressdj/status/2093539459719434306)</sub>
 - [Elder Parent Finances Tracker](https://x.ai/bot/q7LHYJHuQfjaVRR8U1Fdo) — Helps an adult child manage an aging parent’s money: care costs, investment drawdowns, registered-plan withdrawals, banking, and advisor follow-ups. <sub>by [Chris](https://x.com/c_murray) (@c_murray)</sub>
@@ -118,6 +120,8 @@
 - [Invoice Hunter](https://x.ai/bot/-kO6HrXokJZANVwUOMZO9) — Finds invoice PDFs in Gmail and packs a month into a CSV. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093398873247031468)</sub>
 - [Invoice Mirror](https://x.ai/bot/HwckXN5Yd1uxRu86msyfj) — Keeps Harvest and Balances invoices in sync: daily create/update from Harvest into Balances, then mark Harvest paid when Balances shows payment. Stages. <sub>by [Jerrod](https://x.com/jerrodtuck)</sub>
 - [Invoice Terminator](https://x.ai/bot/oIcq3e3tuwYIaPIkmx0cF) — Closes out each month's company software expenses before cutoff so a missed form doesn't cost you an invoice. <sub>by say</sub>
+- [InvoiceMatch Recon Bot](https://x.ai/bot/mK8oApOw3a0zG0m00Ec_h) — Accounts-receivable reconciliation for small businesses. Paste bank deposits and open invoices; get matches, exception flags, and a QuickBooks/Xero-ready CSV. <sub>by Robert</sub>
+- [jason](https://x.ai/bot/9X-V8im-kPPFgybviXkd6) — Joke bot that opens with "hey i'm jason" and only talks about investing in Uber's seed round. <sub>by Luis</sub>
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) — Kalshi research seat that logs placed bets for one market instead of a catch-all desk. <sub>by [Jodi](https://x.com/WorkWithJodi) · [origin](https://x.com/WorkWithJodi/status/2101113469185474972)</sub>
 - [Laggy8](https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY) — A $100k soft-cap Mag8 laggard sleeve: ranks AAPL MSFT GOOGL AMZN META NVDA TSLA AVGO, picks the most hated name each month, and only proposes IBKR. <sub>by [Sachiv](https://x.com/SachivM99) (@SachivM99)</sub>
 - [Lease Finder](https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1) — Hunts current car lease deals nationwide for the deepest discount to MSRP. <sub>by [Danny](https://x.com/dannymacias) (@dannymacias) · [origin](https://x.com/dannymacias/status/2093409778265694256)</sub>
@@ -159,7 +163,7 @@
 - [Polly](https://x.ai/bot/MvgLJbHeHFjc7J9D419_J) — Polymarket research desk that digs moves, sizes the idea, and keeps notes clean. <sub>by [Jodi](https://x.com/WorkWithJodi) · [origin](https://x.com/WorkWithJodi/status/2101113189341540826)</sub>
 - [Polymarket Scans](https://x.ai/bot/x_TnIafQbUyz5XbDGMz20) — Polymarket US placer desk: scans the live book with public references, sizes with Kelly, and places at most one limit when 8pp still clears. Hourly. <sub>by [h](https://x.com/automaticslay) (@automaticslay)</sub>
 - [porshe](https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6) — Finds money you are already owed but have not collected. <sub>by [Lauren](https://x.com/poteto) · [origin](https://x.com/poteto/status/2093518231235686589)</sub>
-- [POSSESSIONS](https://x.ai/bot/_AtzRQVYEzMUS8QsanARG) — Treat your household's stuff, cars and accounts as one tracked portfolio. <sub>by [Bill](https://x.com/bill_mitchell_) (@bill_mitchell_) · [origin](https://x.com/bill_mitchell_/status/2105420420283314572)</sub>
+- [POSSESSIONS: Home Inventory & Net Worth](https://x.ai/bot/_AtzRQVYEzMUS8QsanARG) — Treat your household's stuff, cars and accounts as one tracked portfolio. <sub>by [Bill](https://x.com/bill_mitchell_) (@bill_mitchell_) · aka *POSSESSIONS* · [origin](https://x.com/bill_mitchell_/status/2105420420283314572)</sub>
 - [Privacy Ops](https://x.ai/bot/ZfnCBw8WnIgMynLlika6H) — Data-broker and dead-account removal queue. Finds listings and forgotten logins, drafts official opt-outs, files only after you say yes, and rechecks. <sub>by [Mb](https://x.com/MehlyHQ4m) (@MehlyHQ4m)</sub>
 - [Profit Finder](https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7) — Bob Fifer-mode profit operator: pricing, packaging, cost cuts. <sub>by [Jon](https://x.com/JonStenstrom) (@JonStenstrom)</sub>
 - [Property Decision OS](https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R) — Residential property decision assistant that helps evaluate, compare, offer, and close without pushing you to buy. <sub>by [Amervim](https://x.com/Amervim) · [origin](https://x.com/Amervim/status/2105949142426288483)</sub>

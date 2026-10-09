@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-368 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+380 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -25,6 +25,7 @@
 - [Animated Story Maker](https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O) — 把故事点子、主题或角色照片做成短 3D 动画故事，并给出每集可粘贴的 Grok Imagine 提示。 <sub>作者 [Karata](https://x.com/karatademada) (@karatademada) · [出处](https://x.com/karatademada/status/2105599152528695601)</sub>
 - [Archer](https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w) — 管理一队机器人，让在线产品目录保持最新。 <sub>作者 [Darrell](https://x.com/dukezone) (@dukezone) · [出处](https://x.com/dukezone/status/2100010056108683737)</sub>
 - [Argonaut](https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A) — 在 X 上寻找同题材 Argonaut 线程，为分支式多宇宙史诗续写一行。 <sub>作者 [Ben](https://x.com/open_brady) (@BW) · [出处](https://x.com/open_brady/status/2101172562193465411)</sub>
+- [Art](https://x.ai/bot/yE1-m0X2okSxFsvjScxy0) — 把已批准的帖子做成符合品牌的配图：简短设计说明、按客户配色和字体的素材，以及替代文字。 <sub>作者 ZEU$</sub>
 - [Art Director](https://x.ai/bot/CPsMufoHozETWciYoiqvL) — 替品牌打理 Instagram 的美术总监，从 Pinterest 找灵感做成符合品牌调性的图片和轮播，并负责文案、排期和发布。 <sub>作者 [Carlos](https://x.com/Carlos_Arthurr) · [出处](https://x.com/Carlos_Arthurr/status/2107422079087706174)</sub>
 - [Arthur](https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W) — 给主题和适读年龄，写出一整本儿童图画书。 <sub>作者 [GenXer](https://x.com/LatchKeyLegend) (@LatchKeyLegend)</sub>
 - [Article Audio](https://x.ai/bot/S7zd1VQUVp7z6NKpwF5iY) — 内容创作与发布助手。 <sub>作者 Wayne (@community)</sub>
@@ -62,6 +63,7 @@
 - [Clickbait skipper](https://x.ai/bot/i8WsjKB8KRL-kQ25VPwaB) — 跳过铺垫，直接告诉你视频或播客里真正在讲什么。 <sub>作者 [S](https://x.com/S_Padival) (@S_Padival) · [出处](https://x.com/S_Padival/status/2098227132300452236)</sub>
 - [Clip Bot](https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M) — 从任意 YouTube 播客切出带字幕的横版高光。 <sub>作者 [Lon](https://x.com/ThisWeeknAI) · [出处](https://x.com/ThisWeeknAI/status/2093465404303720846)</sub>
 - [Clip Bot](https://x.ai/bot/aMGcDD-vdyx8ZqeFvIIr1) — 从长谈话剪竖版社交短片，挑最强片段并加字幕。 <sub>作者 [Cobus](https://x.com/CobusGreylingZA) (@CobusGreylingZA)</sub>
+- [Clip Bot](https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_) — 从长录音里找出最精彩的片段，剪成带字幕的短片。
 - [Clip Clip](https://x.ai/bot/hL97Xhf7o84RTv8NlOl37) — 从直播或播客里挑能停住滑动的片段，剪成带字幕的 60 到 90 秒短片。 <sub>作者 [Prashant](https://x.com/prcshxnt) (@prcshxnt) · [出处](https://x.com/prcshxnt/status/2100151839199228091)</sub>
 - [ClipMaker](https://x.ai/bot/b986_CbfzB8jKLcU14LTi) — 从 YouTube 视频里剪出你要的那一段，并转成文字稿。 <sub>作者 [Luigi](https://x.com/r40_io) (@r40_io) · [出处](https://x.com/r40_io/status/2094165107886395638)</sub>
 - [Clipper](https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V) — 把视频切成短片和带字幕的动图，笑点它自己挑。 <sub>作者 [X](https://x.com/thesoragirls) (@thesoragirls) · [出处](https://x.com/thesoragirls/status/2093420118487310516)</sub>
@@ -78,6 +80,7 @@
 - [Content Week Planner](https://x.ai/bot/WuuAHgUSCn1bU4ZaztXdy) — 内容创作与发布助手。 <sub>作者 AdventureNLearn (@community)</sub>
 - [Content Writer](https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr) — 写界面上那些真正决定用户能不能把事办完的字。 <sub>作者 [UCDOps](https://x.com/ucdco) (@ucdco) · [出处](https://x.com/ucdco/status/2096507904601796821)</sub>
 - [Copywriter](https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv) — 把选好的选题写成轮播图的逐页文案和整条配文。 <sub>作者 [Gabriel](https://x.com/adamuchigabriel) (@adamuchigabriel) · [出处](https://x.com/adamuchigabriel/status/2094182045782073384)</sub>
+- [Creator Content Download](https://x.ai/bot/u1m_h-MM1Z7AyPXILn639) — 贴上社交帖子链接，下载成文件传到你指定的 Drive 文件夹，再嵌进你选的演示文稿页。 <sub>作者 Mike</sub>
 - [Creator Content Engine](https://x.ai/bot/pP-dzi24JtjMB_LNYFeJ2) — 丢进一个点子，拿回跨 X 格式的帖子草稿。 <sub>作者 [🇺🇸](https://x.com/250_Revolution) (@250_Revolution) · [出处](https://x.com/250_Revolution/status/2105078279711383650)</sub>
 - [Creator Ops Chief](https://x.ai/bot/3iY_l-3N7JEs18BEABYT7) — 按真实数据跑 TikTok 与短视频创作者运营，含增长实验、品牌私信、隐私清理与内容包。 <sub>作者 [Savannah](https://x.com/SavannahTN88) (@SavannahTN88)</sub>
 - [Creator Post Helper](https://x.ai/bot/onLaBYQxzixgBzJgDZ18u) — 每天三条科技与游戏新闻草稿帖，按你的语气写。 <sub>作者 [Pixel](https://x.com/JPipo86) (@JPipo86) · [出处](https://x.com/JPipo86/status/2105402307479515274)</sub>
@@ -125,6 +128,7 @@
 - [Free Bots Mesh](https://x.ai/bot/Slp4qX0H0kjgyRvMCSh5s) — 虚拟机器人之城的大脑，土地、房屋、游戏、狂欢。 <sub>作者 [Daniel](https://x.com/Daniel_Farinax) (@Daniel_Farinax)</sub>
 - [FreeBot Gen](https://x.ai/bot/Z9SkA7zeEf33Mn5SvfV5W) — 像装扮应用一样生成 freebots.lol World 角色。 <sub>作者 [Mark](https://x.com/Toy_Maestro) (@Toy_Maestro)</sub>
 - [Game Art Director](https://x.ai/bot/KQnsHIvv4_Xk7HyhmewP3) — 把游戏概念收成风格指南、色板与提示表，切精灵图并检查调色与网格一致性。
+- [Gen Saver Hermes](https://x.ai/bot/UfcXTzGb6_OH8ekqFlZpF) — 给做图片、视频、语音和长脚本的人用的省积分生成台。 <sub>作者 Odd&Entertaining</sub>
 - [Gen X Saver](https://x.ai/bot/eIdc-PoIqkMb99CUwr0EQ) — 省积分的生成台：图片、视频、语音和长脚本任务走设置向导，在你的电脑、云端之间分配。 <sub>作者 [Odd&Entertaining](https://x.com/oddreport)</sub>
 - [George](https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4) — 一份简报变成一整套合品牌的创意物料。 <sub>作者 [Rita](https://x.com/arni0x9053) (@arni0x9053) · [出处](https://x.com/arni0x9053/status/2093838719510053326)</sub>
 - [Gif Bot](https://x.ai/bot/3kZ4nf8Qf_2P__xBdyUB4) — 按你描述的瞬间在 YouTube 找片段，烧出清晰对白的 GIF。 <sub>作者 [cyber](https://x.com/dklein09) (@dklein09)</sub>
@@ -197,6 +201,7 @@
 - [Muse](https://x.ai/bot/BJhe9l9IasV0gXFAnNO2W) — 网页端透明代理 Meta Muse，用其连接器做研究与 Facebook、Instagram、Threads。 <sub>作者 [William](https://x.com/wiiiimm) (@wiiiimm) · [出处](https://x.com/wiiiimm/status/2105522007249133702)</sub>
 - [musebot](https://x.ai/bot/wIaZtsMnIKVEQOKTtImU5) — 创意灵感与草稿伙伴，帮你把写作线索续上。 <sub>作者 [8](https://x.com/clawddevs) (@clawddevs) · [出处](https://x.com/clawddevs/status/2105746031308665209)</sub>
 - [Music Hit Studio](https://x.ai/bot/gt3VqCqSRUJvGD8TFtumG) — 用 Grok Bot 团队创作并发布原创歌曲，把专家提示交给音乐模型并收尾发行。 <sub>作者 [DoS](https://x.com/DOSHostNet) (@DOSHostNet)</sub>
+- [Music Video](https://x.ai/bot/1Et06G_Q820_RNat-_0tQ) — 根据你的歌词生成歌曲，逐句对齐节拍，并渲染动态文字画面，出一版 MV 草稿。 <sub>作者 [Matt](https://x.com/bossriceshark) (@bossriceshark) · [出处](https://x.com/bossriceshark/status/2108235663493726358)</sub>
 - [Music Video Release](https://x.ai/bot/vagsUEIt5s7lexKnSes2H) — 把成曲和歌词做成分镜时间表和可粘贴提示板，不拍不传。 <sub>作者 [Joseph](https://x.com/OmgawdMadeit) (@OmgawdMadeit) · [出处](https://x.com/OmgawdMadeit/status/2096127964668629458)</sub>
 - [musica](https://x.ai/bot/A4j6l-jpq5fiQL1XsOOSO) — 把音乐点子收成可分享片段与曲目备注。 <sub>作者 [Wendel](https://x.com/_wrbr) (@_wrbr) · [出处](https://x.com/_wrbr/status/2104344481596051962)</sub>
 - [MyApps Video Desk](https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK) — 在 MyApps 里生成短片再用 ffmpeg 拼成一条。 <sub>作者 [Epic](https://x.com/Sm0ken42O) (@Sm0ken42O)</sub>
@@ -267,6 +272,7 @@
 - [Search](https://x.ai/bot/ZJJFvBg5t3MsYoD5s-VvM) — grokbot.studio 的 Search 入口与安装器，安装后成为检索侧副本并路由搜索工作。 <sub>作者 [Hexakin](https://x.com/Hexakin)</sub>
 - [Sentinel](https://x.ai/bot/uO5NbCQrgt1dtYKeklsj1) — 跨浏览器评价面的声誉防御与社会证明提取。 <sub>作者 [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
 - [SEO Content Desk (seodraft)](https://x.ai/bot/OkT4Dbjy4xVf7oVBCr8hL) — 面向自有博客的 SEO 写作台，选题、SERP 提纲并用 seodraft 从素材起草。 <sub>作者 Chorch · [出处](https://grokbot.dev/marketplace/seo-content-desk-seodraft/)</sub>
+- [SEO Team](https://x.ai/bot/hZ5qExsCbwC-JCnsMOwp3) — 五个角色的 SEO 小队（SEO 负责人、关键词研究、技术 SEO、内容写手、外链），出简报和草稿。 <sub>作者 Sultanov</sub>
 - [SerioFM](https://x.ai/bot/yh5gwGDjd3jKORP132WnB) — SerioFM 助手，整理节目笔记与段落顺序。 <sub>作者 Jericho</sub>
 - [SERP Watch Team](https://x.ai/bot/iN9VkE6H4f4CLidzMaNaZ) — 盯搜索排名和 AI 回答里的品牌露脸，并给出下一篇该写什么。 <sub>作者 [Taus](https://x.com/ShehjadTaus) (@ShehjadTaus) · [出处](https://x.com/ShehjadTaus/status/2098538235303735484)</sub>
 - [ShareNow Bot](https://x.ai/bot/bLjgwE9D7HtZ17fVQc53o) — 把主题或草稿做成发布好的静态页放到外部主机，也可按小时刷新主题看板。 <sub>作者 [Sheing](https://x.com/sashimikun_void) (@sashimikun_void) · [出处](https://x.com/sashimikun_void/status/2102509720951021672)</sub>
@@ -281,6 +287,7 @@
 - [Showrunner](https://x.ai/bot/dLxcnhWxf9JyHIo_l8wJk) — 当音乐视频导演，给一小队专长机器人定风格和分镜。 <sub>作者 [RedSpiceX](https://x.com/RedSpiceX) · [出处](https://x.com/RedSpiceX/status/2098108206321107418)</sub>
 - [Sitcom banger](https://x.ai/bot/h4suD8jA37Wsb7tS4giUO) — 先写剧本，再把点子做成情景喜剧式短片。 <sub>作者 [altryne](https://x.com/altryne) · [出处](https://x.com/altryne/status/2093459037484622297)</sub>
 - [Site Audit](https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW) — 一轮审完搜索、速度、无障碍、转化和结构化数据。 <sub>作者 [Andrej](https://x.com/scheemunai) · [出处](https://x.com/scheemunai/status/2093397637487596019)</sub>
+- [Site Audit](https://x.ai/bot/_rzRrKKlUyBD3znUN5b3Q) — SEO、内容、速度、无障碍、转化和结构化数据审计，打分分级，附证据链接，每月对比，不编指标。
 - [Situation monitor](https://x.ai/bot/lkHayxdQjNzVVJIDh7qaF) — 把一周的 X 书签收成一条复盘帖草稿。 <sub>作者 [Chase](https://x.com/ChaseMc67) (@ChaseMc67) · [出处](https://x.com/ChaseMc67/status/2093878821078573520)</sub>
 - [Sleeper](https://x.ai/bot/l6Th7yMHATLwk6aLRRByi) — Sleeper 梦幻足球总经理，明确出场坐场与捞人，照顾注意力友好节奏。 <sub>作者 [Preston](https://x.com/Presleeling) (@Presleeling)</sub>
 - [Slide Bot](https://x.ai/bot/wH4vQSge_ibrgBBtJDHbh) — 根据品牌系统和通话笔记构建并更新客户演示文稿。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott)</sub>
@@ -294,6 +301,7 @@
 - [Songwriter](https://x.ai/bot/k3eBiEIAtXSRUCZJX5aYJ) — 歌曲创作工作室入口，拉起词曲专家，用文本路由歌词、副歌、进行与结构。 <sub>作者 [Hexakin](https://x.com/Hexakin)</sub>
 - [Source Ledger](https://x.ai/bot/LrkVPINp07C8vu5PSQxQ1) — 把一条公开主张拆成按证据分级的来源台账，只列来源不下判，请发一句主张加一个来源。 <sub>作者 [JosefEmanuel](https://x.com/aeon_jo) (@aeon_jo)</sub>
 - [Speech to text (transcriptions and captions)](https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb) — 把音视频转成带时间轴的 SRT 字幕，烧录字幕用 AssemblyAI，便宜的纯文本或 Whisper 时间戳走 OpenRouter。 <sub>作者 Jeroen</sub>
+- [Sponsorship Deal Desk](https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy) — 创作者赞助交易台：筛选来询，对新的报价询问发固定首回，例外情况留给人处理。 <sub>作者 [Eric](https://x.com/ericosiu)</sub>
 - [Spruce](https://x.ai/bot/NVpdpaSAKHtd1qH6VH9vc) — 发一张想清理或翻新的房间照片，返回概念改造效果图和易跟做的分步说明。 <sub>[出处](https://x.com/Brbaumhoff/status/2103306013592146176)</sub>
 - [Startup Kill Switch](https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU) — 给想在浪费数月前压力测试点子的创始人做对抗式评估，丢来概念，得到杀掉、返工或继续的判决。 <sub>作者 [ᴅʏʟᴀɴ.exe](https://x.com/Dylan_Texe) (@Dylan_Texe)</sub>
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) — 标出稿子里平淡的机器腔，然后改写成能读的句子。 <sub>作者 [Bill](https://x.com/bfrench) (@bfrench) · [出处](https://x.com/bfrench/status/2094591383080403402)</sub>
@@ -304,8 +312,10 @@
 - [TaleForge](https://x.ai/bot/5-YiiKg_ws-7xgkR8T8Ko) — 把故事点子做成完整漫画、绘本或短视频，角色设定保持一致。 <sub>作者 [Avinash](https://x.com/AvinashPeyyety) · [出处](https://x.com/AvinashPeyyety/status/2104075408819851773)</sub>
 - [Taller](https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp) — 把设计链接收成可追问的 markdown 参考库，之后按收藏推荐可复用素材。 <sub>作者 [Franco](https://x.com/FrancoE114696) (@Fran Escob) · [出处](https://x.com/FrancoE114696/status/2099646811992424632)</sub>
 - [Tamago](https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO) — 设计高质量 Grok Bot，对人看的日文写作坚持忠实日语标准。 <sub>作者 [Kamone](https://x.com/knge_rstc) (@knge_rstc) · [出处](https://x.com/knge_rstc/status/2102607543856226457)</sub>
+- [Tarantino](https://x.ai/bot/-PewQ9-5OJOire4J4GI4L) — 传奇好莱坞制片人和视觉叙事大师，把电影点子从一句话梗概做到分镜、海报和短片。 <sub>作者 FatDon</sub>
 - [Tcgplayer Repricer](https://x.ai/bot/-OTWWkChA1p8rLYZO_kLV) — TCGPlayer 卖家运维，每天按你的公式或跟市价重定价库存。 <sub>作者 [Connor](https://x.com/Connor)</sub>
 - [Tesla Paint Booth](https://x.ai/bot/0I8SH6XKWmBYc2HynER9i) — 在聊天里根据文字或图片设计 Tesla 车身贴膜，返回预览图和可直接导入 Paint Shop 的文件。 <sub>作者 [Matthew](https://x.com/Matty_O_D) · [出处](https://x.com/Matty_O_D/status/2107168930859266189)</sub>
+- [Tesla Wrap Builder](https://x.ai/bot/9bKx_1Qc-S3xUrlH0oRv5) — 在 Paint Shop 里给特斯拉屏幕上的 3D 车设计自定义车衣（不是真贴膜）：你的 logo、照片、图案、文字或颜色。 <sub>作者 Mike</sub>
 - [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) — 把已有草稿收成一版能直接发出去的文字，不另起新稿。 <sub>作者 [Bill](https://x.com/GrokBotGod) (@GrokBotGod)</sub>
 - [The Director](https://x.ai/bot/yyBdZJpc8kcndrs-e5TKi) — 影视片场导演，把短简报落成带镜头与 T 档的分镜表。 <sub>作者 [Ben](https://x.com/ben_pedley) · [出处](https://x.com/ben_pedley)</sub>
 - [The Table](https://x.ai/bot/MCbora5cfpxh0qvCQkABU) — 单人跑团，真有 GM 与玩家机器人会咬耳朵、吵规则并给你惊喜。 <sub>作者 [Markus](https://x.com/Markus)</sub>
@@ -320,6 +330,7 @@
 - [Universal Video Downloader](https://x.ai/bot/ny02y0VWgzWSSFlXgpWVZ) — 贴视频链接，从 X、Reels、YouTube、TikTok 等站点收回可播 MP4。 <sub>作者 [공용](https://x.com/ApexSMK) (@ApexSMK) · [出处](https://x.com/ApexSMK)</sub>
 - [Veil & Vane](https://x.ai/bot/eBRHmCqvGlOuGfiEJk42a) — 用口令把留言藏进图片，并扫描文件里是否藏有隐蔽内容。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2106168402637152426)</sub>
 - [VidBoi](https://x.ai/bot/dRpUAWpjMusdTw0oy4re3) — 从聊天、通话或频道快速出片，可在聊天里用Runway或Higgsfield生成。 <sub>作者 [Connor](https://x.com/connorgrasso_) (@connorgrasso_)</sub>
+- [Videe](https://x.ai/bot/-dB6UXKIRjKSnCiJkv_zT) — 给播客和 YouTube 多机位素材出剪辑方案：切哪个机位、删哪段、哪里要清理，并为整集和竖屏短片写字幕。 <sub>作者 [nickgaiski](https://x.com/nickgaiski) · [出处](https://x.com/nickgaiski/status/2107944084530733262)</sub>
 - [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) — 找到并下载官方视频片段，把文件和源链接一起交回。 <sub>作者 [dogenorway](https://x.com/DogecoinNorway) (@DogecoinNorway)</sub>
 - [Video Editor](https://x.ai/bot/Oo4vOtwAggO933EwCmKrc) — 把单机位口述录像剪成带品牌感的 YouTube 成片。 <sub>作者 [Ross](https://x.com/ross_zeiger) (@ross_zeiger) · [出处](https://x.com/ross_zeiger/status/2103941921983107481)</sub>
 - [Video Editor](https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs) — 面向创作者和小团队的 AI 剪辑助手，剪素材、做短视频、配标题和封面，做动效与产品视频并交付 MP4。 <sub>作者 [John](https://x.com/john_a_isaacson) · [出处](https://x.com/john_a_isaacson/status/2107037040445661621)</sub>
@@ -335,6 +346,7 @@
 - [Virtual Try-On Bot](https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR) — 把喜欢的衣服变成 Grok Imagine 试穿视频。 <sub>作者 [paranoidream](https://x.com/paranoidream)</sub>
 - [Webby](https://x.ai/bot/Q2shbC8RRmoRleIyr5J33) — 管网站重建和看板，newsletter 也一直转着。 <sub>作者 [Farzad](https://x.com/farzyness) · [出处](https://x.com/farzyness/status/2093485215150744014)</sub>
 - [Website Builder](https://x.ai/bot/sOm7Tj_IcvQ2SFIvJdOJj) — 搭并维护公司站，含设计文案表单，可在 GitHub Pages 挂上你的域名上线。 <sub>作者 [Goob](https://x.com/Rebeldawg) · [出处](https://x.com/Rebeldawg/status/2106253030920237366)</sub>
+- [Website Highlight Video Maker](https://x.ai/bot/knt08ohuspBYhQ6ohXtKt) — 按顺序走一遍你自己网站的页面，做成带旁白、放大、高亮和字幕的讲解视频，另出一版竖屏社媒短片。 <sub>作者 [Martin](https://x.com/DaroFrostad) · [出处](https://x.com/DaroFrostad/status/2107971032351207747)</sub>
 - [Website Ops](https://x.ai/bot/NYDai_DOI_2pNDIKerrpD) — 网站运营兼内容经理：从网站仓库以 PR 形式发布改动，做有证据的网站审计（SEO、内容、速度、无障碍、转化）。
 - [wing](https://x.ai/bot/7tQzGIL3WcHG8_Nt7CVwv) — 约会应用僚机，用你的口气起草开场和回复。 <sub>作者 [Lauren](https://x.com/poteto) (@poteto) · [出处](https://x.com/poteto/status/2093516142019318262)</sub>
 - [Workbench Design](https://x.ai/bot/wbLs8l_Xpej3rH9ewWycd) — Agent Workbench 的设计专员，审查提供的公开页面、截图和产品描述的清晰度、可用性和无障碍。 <sub>作者 Flux</sub>

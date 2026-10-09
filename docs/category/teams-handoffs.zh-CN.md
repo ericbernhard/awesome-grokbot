@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-218 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+220 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -56,6 +56,7 @@
 - [Chief of Staff](https://x.ai/bot/TPVT39k9ILCz7QYzRja2B) — 调度你其它的 Bot，顺带把你今晚要过夜的城市摸清楚。 <sub>作者 [Daily](https://x.com/TravisHein21740) (@TravisHein21740) · [出处](https://x.com/TravisHein21740/status/2096927727861297570)</sub>
 - [Chief of Staff](https://x.ai/bot/s4lVhWgvghY8dikqD0LC4) — 早间简报标明来源、为何重要和下一步，并把例行事项转给专家助手。 <sub>作者 [Vaibhav](https://x.com/vaibhavhome) (@vaibhavhome) · [出处](https://x.com/vaibhavhome/status/2100099243448873109)</sub>
 - [Chief of Staff](https://x.ai/bot/sc0a0ec3ce9c675824106) <sup>官方</sup> — 随时在线的幕僚：扫 Slack、邮件、日历、会议记录，简报新情况以及哪些跟你的目标相关。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Chief of Staff Fleet](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) — 一个总协调带六个助手，分管项目、人际、健康、抗衰、社交日程和知识库，每早汇成一份简报，未经确认不发出任何东西。 <sub>作者 [Sravan](https://x.com/sravanjay) (@sravanjay) · [出处](https://x.com/sravanjay/status/2108323707689341106)</sub>
 - [Clark Kent](https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes) — 每天写下店里真正发生了什么。 <sub>作者 [Rich](https://x.com/RichSilver) · [出处](https://x.com/RichSilver/status/2093409237451903032)</sub>
 - [Cleaner](https://x.ai/bot/OMPT37PUKmoL8MY11oDLP) — 按需和每周清聊天记录，档案记忆和例行任务都保留。 <sub>作者 [Seth](https://x.com/sethsaler) (@sethsaler)</sub>
 - [Clinic](https://x.ai/bot/GbpCPWcJn2Id4ZB3wrHlc) — 用精简的健康巡诊让 Grok Bot 员工保持状态。 <sub>作者 [Jason](https://x.com/jpaschall) (@jpaschall) · [出处](https://x.com/jpaschall/status/2100357688936767899)</sub>
@@ -186,6 +187,7 @@
 - [Status Report Writer](https://x.ai/bot/sde2c69536d2f2564fe1b) <sup>官方</sup> — 待办不漏项：从文档、会议、Slack 收拢未完成事项，合成一张活清单和早报。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Stellar Cartography](https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i) — 画航天器和船舶图，发布前强制过一轮双人复核。 <sub>作者 [Wil](https://x.com/schweitzer_wil) (@schweitzer_wil) · [出处](https://x.com/schweitzer_wil/status/2096794136200311213)</sub>
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — 跟踪整支 Bot 舰队的 Cursor 花费，挑出省钱的做法。 <sub>作者 [Corey](https://x.com/cjblev) (@cjblev) · [出处](https://x.com/cjblev/status/2094100993923252291)</sub>
+- [Talent Bot](https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe) — 证据优先的招聘操盘手，每天按冻结的岗位标准给挑战提交和 ATS 申请者打分。 <sub>作者 [Eric](https://x.com/ericosiu)</sub>
 - [Talent Discovery](https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc) — 按你的标准找开放岗位候选人，并排除已在 ATS 里的人。
 - [Talent Scout](https://x.ai/bot/sac3a109dfe021c555c7c) <sup>官方</sup> — 招聘在你睡觉时也在走：从找人到发 offer 全程，用你的口吻写触达，已在库的自动跳过。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Tallyhand](https://x.ai/bot/7fExIoCYvACOqWtnY0U0o) — 请求归一处、每项有主人，未经确认不外发。 <sub>作者 [Brandon](https://x.com/gitshipdone) (@gitshipdone) · [出处](https://x.com/gitshipdone/status/2103645776849084917)</sub>

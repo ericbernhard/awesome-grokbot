@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-218 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+220 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -56,6 +56,7 @@
 - [Chief of Staff](https://x.ai/bot/TPVT39k9ILCz7QYzRja2B) — Directs your other bots, and briefs you on any town you plan to sleep in. <sub>by [Daily](https://x.com/TravisHein21740) (@TravisHein21740) · [origin](https://x.com/TravisHein21740/status/2096927727861297570)</sub>
 - [Chief of Staff](https://x.ai/bot/s4lVhWgvghY8dikqD0LC4) — Morning digest with source, why it matters, and next action, then delegates routine work onward. <sub>by [Vaibhav](https://x.com/vaibhavhome) (@vaibhavhome) · [origin](https://x.com/vaibhavhome/status/2100099243448873109)</sub>
 - [Chief of Staff](https://x.ai/bot/sc0a0ec3ce9c675824106) <sup>official</sup> — Scans Slack, email, calendar and meeting notes, then reads out what is new and what maps to your own goals. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Chief of Staff Fleet](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) — A coordinator over six life-area helpers (projects, health, relationships, calendar, notes) that rolls up one morning briefing; nothing sent without sign-off. <sub>by [Sravan](https://x.com/sravanjay) (@sravanjay) · [origin](https://x.com/sravanjay/status/2108323707689341106)</sub>
 - [Clark Kent](https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes) — Writes up what actually happened in your shop each day. <sub>by [Rich](https://x.com/RichSilver) · [origin](https://x.com/RichSilver/status/2093409237451903032)</sub>
 - [Cleaner](https://x.ai/bot/OMPT37PUKmoL8MY11oDLP) — Wipes Grok Bot chat histories on request and weekly; memory stays. <sub>by [Seth](https://x.com/sethsaler) (@sethsaler)</sub>
 - [Clinic](https://x.ai/bot/GbpCPWcJn2Id4ZB3wrHlc) — Does the janitorial work for a desk crowded with assistants, on a fixed Tuesday and Friday round instead of waiting to be asked. <sub>by [Jason](https://x.com/jpaschall) (@jpaschall) · [origin](https://x.com/jpaschall/status/2100357688936767899)</sub>
@@ -186,6 +187,7 @@
 - [Status Report Writer](https://x.ai/bot/sde2c69536d2f2564fe1b) <sup>official</sup> — Own the to-do so nothing slips. Pulls open action items from docs, meetings, and Slack into one living list and a morning digest. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Stellar Cartography](https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i) — Draws spacecraft and ships, then forces a second pair of eyes before release. <sub>by [Wil](https://x.com/schweitzer_wil) (@schweitzer_wil) · [origin](https://x.com/schweitzer_wil/status/2096794136200311213)</sub>
 - [Steward](https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA) — Tracks Cursor spend across your bot fleet and finds the cheap wins. <sub>by [Corey](https://x.com/cjblev) (@cjblev) · [origin](https://x.com/cjblev/status/2094100993923252291)</sub>
+- [Talent Bot](https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe) — Evidence-first recruiting operator. Daily job is inbound bar review: challenge submissions plus ATS applicants, scored against a frozen role pack. <sub>by [Eric](https://x.com/ericosiu)</sub>
 - [Talent Discovery](https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc) — Finds candidates for open roles that match your criteria and aren't already in your ATS.
 - [Talent Scout](https://x.ai/bot/sac3a109dfe021c555c7c) <sup>official</sup> — Runs screen-to-offer: sources candidates, drafts outreach in your voice, and skips anyone already in the ATS. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Tallyhand](https://x.ai/bot/7fExIoCYvACOqWtnY0U0o) — Every request in one place, one owner per item, and nothing sent without your OK. <sub>by [Brandon](https://x.com/gitshipdone) (@gitshipdone) · [origin](https://x.com/gitshipdone/status/2103645776849084917)</sub>

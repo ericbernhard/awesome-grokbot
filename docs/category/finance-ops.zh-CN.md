@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-240 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+244 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -31,6 +31,7 @@
 - [Bound](https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh) — FFL 经销商的 FastBound A&D 周审，标出售后未结项。 <sub>作者 [Jason](https://x.com/Jasonturcotte) (@Jasonturcotte) · [出处](https://x.com/Jasonturcotte/status/2103641289480982601)</sub>
 - [Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf) — 翻邮件和账单，找你从没追过的退款和额度。 <sub>作者 [Liam](https://x.com/liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383127162925558)</sub>
 - [Bronn](https://x.ai/bot/dmdieR7YwBkRJN5xYKnn6) — 任意轮次的融资投资者关系机器人，找一度 LinkedIn 投资人，起草含蓄开场。 <sub>作者 [Darren](https://x.com/darrenmarble) (@darrenmarble)</sub>
+- [Buildertrend Invoice Desk](https://x.ai/bot/igyfOAUWRXvTZbDj2J__S) — 从 Buildertrend 拉建房发票，做本地看板并跑开支分析。 <sub>作者 Brian</sub>
 - [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) — 从小企业源文件起草账本、薪酬与税务，只在美式准则下填写与建议，绝不自行电子申报或挪钱。 <sub>作者 [Roman](https://x.com/RomanPotapovBiz) (@RomanPotapovBiz)</sub>
 - [Business Profile](https://x.ai/bot/qHgP-l6Z1rFXMv3qUbQQ5) — 周一三五早间从素材库发一条谷歌商家资料更新。 <sub>作者 [AdvancedBusinessSyst](https://x.com/abstally) (@abstally)</sub>
 - [Car Chaser](https://x.ai/bot/_xHffm8tWVvtVic-aJmwa) — 带站点筛选做不到的IF/THEN与OR规则的找车助手，例如三万七以下且车主不超过三人。 <sub>作者 [Bryan](https://x.com/ibelevy) (@ibelevy)</sub>
@@ -71,6 +72,7 @@
 - [DeckLens](https://x.ai/bot/KlcxAG1I8cMQoqS_8Hrdn) — 先访谈你做出评分表，再按它给路演材料打分。 <sub>作者 [Brian](https://x.com/BrianDEvans) (@BrianDEvans) · 社区旧称 *DeckLens (Pitch Deck Analyzer)* · [出处](https://x.com/BrianDEvans/status/2093386518375346484)</sub>
 - [Dero](https://x.ai/bot/OMpdsLwId7Du5PrjbX8L8) — 跑智利市政招标文件的处理流水线。 <sub>作者 [Jorge](https://x.com/jorgesoffia) (@jorgesoffia) · [出处](https://x.com/jorgesoffia/status/2099936875498627530)</sub>
 - [Druski](https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq) — 产品化服务创始人的幕僚长，跑代理机群、盖章报价与发布门，让早晨先抓钱并留下可拍摄瞬间。 <sub>作者 [Shawn](https://x.com/topshoh) (@topshoh)</sub>
+- [Duty First](https://x.ai/bot/ZNrJWoDe9kUzXB4QG8xVT) — 懂信托文件的信托会计和报告：先读信托文件，把每笔收支归为本金或收益。 <sub>作者 Steve</sub>
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) — 做编号、不吹的财报一页纸，再盯一份股票名单。盯着的名字出数就写一篇。 <sub>作者 [Sachiv](https://x.com/SachivM99) · [出处](https://github.com/keshav-exe/bot-directory)</sub>
 - [Edna](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) — 按你家机场、积分和会籍来排积分出行。 <sub>作者 [DJ](https://x.com/congressdj) (@congressdj) · 社区旧称 *Travel Guru* · [出处](https://x.com/congressdj/status/2093539459719434306)</sub>
 - [Elder Parent Finances Tracker](https://x.ai/bot/q7LHYJHuQfjaVRR8U1Fdo) — 帮成年子女管理年迈父母的钱，护理费用、投资支取与账单。 <sub>作者 [Chris](https://x.com/c_murray) (@c_murray)</sub>
@@ -118,6 +120,8 @@
 - [Invoice Hunter](https://x.ai/bot/-kO6HrXokJZANVwUOMZO9) — 从 Gmail 里找出发票 PDF，把一个月打成一份表格。 <sub>作者 [Andrej](https://x.com/scheemunai) · [出处](https://x.com/scheemunai/status/2093398873247031468)</sub>
 - [Invoice Mirror](https://x.ai/bot/HwckXN5Yd1uxRu86msyfj) — 保持 Harvest 与 Balances 发票同步，每日从 Harvest 创建或更新到 Balances。 <sub>作者 [Jerrod](https://x.com/jerrodtuck)</sub>
 - [Invoice Terminator](https://x.ai/bot/oIcq3e3tuwYIaPIkmx0cF) — 每月截止前把公司软件开支的发票收齐，别让漏填的表单吃掉一张发票。 <sub>作者 say</sub>
+- [InvoiceMatch Recon Bot](https://x.ai/bot/mK8oApOw3a0zG0m00Ec_h) — 小商家的应收对账：贴上银行入账和未结发票，拿到匹配结果、异常标记和可导入 QuickBooks 或 Xero 的 CSV。 <sub>作者 Robert</sub>
+- [jason](https://x.ai/bot/9X-V8im-kPPFgybviXkd6) — 搞笑 bot：开口就说「hey i'm jason」，然后只聊投 Uber 种子轮。 <sub>作者 Luis</sub>
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) — Kalshi 研究席位，专管单一市场并把下单记录在案。 <sub>作者 [Jodi](https://x.com/WorkWithJodi) · [出处](https://x.com/WorkWithJodi/status/2101113469185474972)</sub>
 - [Laggy8](https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY) — 十万软顶的Mag8落后股袖仓，对美股巨头排名并挑最落后的一只做研究与执行。 <sub>作者 [Sachiv](https://x.com/SachivM99) (@SachivM99)</sub>
 - [Lease Finder](https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1) — 全国找当前汽车租赁优惠，盯对标价折扣最深的。 <sub>作者 [Danny](https://x.com/dannymacias) (@dannymacias) · [出处](https://x.com/dannymacias/status/2093409778265694256)</sub>
@@ -159,7 +163,7 @@
 - [Polly](https://x.ai/bot/MvgLJbHeHFjc7J9D419_J) — Polymarket 研究台，挖行情、估仓位，并把笔记整理干净。 <sub>作者 [Jodi](https://x.com/WorkWithJodi) · [出处](https://x.com/WorkWithJodi/status/2101113189341540826)</sub>
 - [Polymarket Scans](https://x.ai/bot/x_TnIafQbUyz5XbDGMz20) — Polymarket 美盘下注桌，结合公开参考扫描现场盘口并控制仓位。 <sub>作者 [h](https://x.com/automaticslay) (@automaticslay)</sub>
 - [porshe](https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6) — 找出你已经该收、却还没去要的钱。 <sub>作者 [Lauren](https://x.com/poteto) · [出处](https://x.com/poteto/status/2093518231235686589)</sub>
-- [POSSESSIONS](https://x.ai/bot/_AtzRQVYEzMUS8QsanARG) — 把家里物品、车辆与账户当成一份可跟踪的投资组合。 <sub>作者 [Bill](https://x.com/bill_mitchell_) (@bill_mitchell_) · [出处](https://x.com/bill_mitchell_/status/2105420420283314572)</sub>
+- [POSSESSIONS: Home Inventory & Net Worth](https://x.ai/bot/_AtzRQVYEzMUS8QsanARG) — 把家里物品、车辆与账户当成一份可跟踪的投资组合。 <sub>作者 [Bill](https://x.com/bill_mitchell_) (@bill_mitchell_) · 社区旧称 *POSSESSIONS* · [出处](https://x.com/bill_mitchell_/status/2105420420283314572)</sub>
 - [Privacy Ops](https://x.ai/bot/ZfnCBw8WnIgMynLlika6H) — 数据经纪与死账号清理队列，找曝光与遗忘登录，起草下架与删除请求。 <sub>作者 [Mb](https://x.com/MehlyHQ4m) (@MehlyHQ4m)</sub>
 - [Profit Finder](https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7) — Bob Fifer 模式利润运营者，定价、包装、砍成本。 <sub>作者 [Jon](https://x.com/JonStenstrom) (@JonStenstrom)</sub>
 - [Property Decision OS](https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R) — 住宅置业决策助手，帮你评估比较出价与成交，但不催你买。 <sub>作者 [Amervim](https://x.com/Amervim) · [出处](https://x.com/Amervim/status/2105949142426288483)</sub>
