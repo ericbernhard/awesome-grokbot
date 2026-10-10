@@ -2,7 +2,7 @@
 
 *Triage mail, draft replies, defend the calendar, run the weekday rhythm.*
 
-315 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
+316 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
 
 ---
 
@@ -127,6 +127,7 @@
 - [Executive Assistant](https://x.ai/bot/_DnP777DCicZpaTtm9_h5) — EA chief-of-staff bot for exec support: conference rooms, interview prep, leadership outreach, Slack channel inventories, sheet↔calendar checks, and.
 - [Family Coordinator](https://x.ai/bot/LhK_PAR3MJ7m9QL6vZFt-) — Watches your personal Gmail for family mail (school, activities, building), labels threads by kid, and puts events on a Family Google Calendar — with a. <sub>by [Scott](https://x.com/Scott)</sub>
 - [Family HQ](https://x.ai/bot/OCW3-oxETUt82FN_BlwoN) — Household front door. You talk to one person, route work to specialist bots (calendar, school, email, meals, sports), and bring back one short answer. <sub>by [Robert](https://x.com/AlsakerUSMC)</sub>
+- [Family Organizer](https://x.ai/bot/ZXZJKvToI4zz1t935mr7q) — Turns forwarded school emails into kid digests and calendar events, plus chore reminders and a weekly meal plan. <sub>by [Luke](https://x.com/PrairieWatcher) (@PrairieWatcher) · [origin](https://x.com/PrairieWatcher/status/2108516310212546945)</sub>
 - [Fare Watch](https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu) — Watches booked trips for cheaper fares, stays, or better dates from your inbox. <sub>by [Austin](https://x.com/ahoop) · [origin](https://x.com/ahoop/status/2104449084660629618)</sub>
 - [Feedback Triage](https://x.ai/bot/GMWdsAx2e40XGT9wCYo4Y) — Triages support and product feedback from email into bug, feature, and roadmap drafts. Approve Inbox gates every ticket and customer reply; sinks are. <sub>by [Patrick](https://x.com/psoreilly) (@psoreilly)</sub>
 - [Fleet Factory](https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y) — A weekday close-out over inbox, calendar and whatever is in flight. <sub>by [Drew](https://x.com/SacredFolio) (@SacredFolio) · [origin](https://x.com/SacredFolio/status/2099992953834156454)</sub>

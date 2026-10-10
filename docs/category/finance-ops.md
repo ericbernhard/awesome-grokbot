@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-244 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+245 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -183,6 +183,7 @@
 - [Remorse Timer](https://x.ai/bot/vwPidRQz6aaEzLWOnU6Tz) — Cancel/pause/keep for recurring charges with sunk-cost callouts. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Renewals Invoice Bot](https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum) — Pays known renewals within a weekly budget and asks before anything new. <sub>by [Neessam](https://x.com/compileinstyle) (@compileinstyle) · [origin](https://x.com/compileinstyle/status/2097809676242956768)</sub>
 - [Rental Desk](https://x.ai/bot/0havI1dJhzL_gG11rueQN) — Back-office helper for small landlords: listings, inquiries, showings, and rent logs you approve. <sub>by [Branden](https://x.com/BrandenSeth) (@BrandenSeth) · [origin](https://x.com/BrandenSeth/status/2106152472066523269)</sub>
+- [Rental Investor Research Desk](https://x.ai/bot/L7E3Eh2-CBKZbq4EsO6mt) — Research desk for small rental investors: screens listings against your buy box, logs rents and helps underwrite deals. <sub>by Tom</sub>
 - [Reorder](https://x.ai/bot/BDvP1yXPqp5DtJlk94Kmj) — A low-stock and supplier-order draft desk for a small business. It tracks finished goods and supplies against your reorder points, estimates run-out. <sub>by [Richard](https://x.com/RichGarrick) (@Richard Garrick) · [origin](https://x.com/RichGarrick/status/2104700485567684743)</sub>
 - [Returns & Warranties](https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt) — Warns you before a return, refund or warranty window closes. <sub>by [Liam](https://x.com/liam_fallen) · [origin](https://x.com/liam_fallen/status/2093635776659554701)</sub>
 - [RevenueDog](https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT) — Wake up to yesterday's subscription numbers and one fix worth trying. <sub>by [Lex](https://x.com/lexrus) (@lexrus) · [origin](https://x.com/lexrus/status/2094285817221111992)</sub>
@@ -222,7 +223,7 @@
 - [Tiffany](https://x.ai/bot/7DlZjgLrcgPUNVkl_cC95) — Pool and plumbing trade ops for supplier prices, invoice audits, and overdue follow-ups. <sub>by [Micah](https://x.com/Micahaus) (@Micahaus) · [origin](https://x.com/Micahaus/status/2101421701674528824)</sub>
 - [Tradey](https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ) — Autonomous short-term equity desk. North star: beat SPY on a dedicated brokerage cash account. Decides on its native model, reads the book, and places. <sub>by [Farzad](https://x.com/farzyness) (@farzyness)</sub>
 - [Trading](https://x.ai/bot/XW2DibYh5BRunhH_f373u) — A news-driven day-trading bot for a live brokerage book. Goes all-in on one liquid large or mid-cap at a time, clips small waves or news moves under standing rules, and messages every fill. <sub>by [Travis](https://x.com/TravisWeathers) (@TravisWeathers) · [origin](https://x.com/TravisWeathers/status/2093818846637666637)</sub>
-- [Trading Bot 3.0](https://x.ai/bot/BcSPHebyU3Gkqqqhn3QRr) — Places buy and sell limit orders on the XRP Ledger DEX for XRP/RLUSD from a small wallet you create. <sub>by [James](https://x.com/allthemoney) · [origin](https://x.com/allthemoney/status/2104542449674699224)</sub>
+- [Trading Bot 4.0](https://x.ai/bot/BcSPHebyU3Gkqqqhn3QRr) — Places buy and sell limit orders on the XRP Ledger DEX for XRP/RLUSD from a small wallet you create. <sub>by [James](https://x.com/allthemoney) · aka *Trading Bot 3.0* · [origin](https://x.com/allthemoney/status/2104542449674699224)</sub>
 - [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) — Points-aware travel ops agent: sets up a trip HQ (Notion or local files), hunts cash and award deals, watches on a schedule, and only pings when. <sub>by [Manan](https://x.com/manan_suneja) (@manan_suneja)</sub>
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) — Finds real trip deals from your hub airports, fits them to open calendar windows, and plans by vibe , with honest prices and no invented “normally. <sub>by [natillie](https://x.com/natillie)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray desk for trading workflows. <sub>by [XO](https://x.com/Ortix008) (@Ortix008)</sub>

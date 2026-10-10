@@ -2,7 +2,7 @@
 
 *Watch a beat, verify claims, and hand back one short brief.*
 
-609 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
+611 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
 
 ---
 
@@ -32,6 +32,7 @@
 - [AmericaBot](https://x.ai/bot/JI_vqjMDn_w7wFUw-G1UR) — Plain-English answers about US government services and where to apply. <sub>by [Andrew](https://x.com/andrewslaptop) (@andrewslaptop) · [origin](https://x.com/andrewslaptop/status/2105444494720012647)</sub>
 - [Analyst](https://x.ai/bot/dqbhWIMeHhypJJVA1NvqI) — Ops and finance analyst that runs a weekly portfolio brief after the US close — per-holding levels, a tracked 12-month index sleeve, and standing. <sub>by [dfer2dfer](https://x.com/dfer2dfer)</sub>
 - [Ancestor Maestro: Family Tree Builder](https://x.ai/bot/tU4SQjv6iBbaTk0IlCrBs) — Your family-tree research helper for Ancestry and 23andMe: searches records, checks hints for bad dates and copied-tree errors. <sub>by [TroyVirtual](https://x.com/TroyVirtual)</sub>
+- [Ancestry Bot](https://x.ai/bot/AINP9mLXBIt__NMVeFXGO) — Genealogy assistant that builds and verifies your family tree from real records and DNA, citing every fact. <sub>by [Daniel](https://x.com/mcdanderson) (@mcdanderson) · [origin](https://x.com/mcdanderson/status/2108508806724636914)</sub>
 - [aoty](https://x.ai/bot/Wt4IQj3R1eePOyOOnox7H) — Three new albums a week, picked from aggregated scores. <sub>by [emre](https://x.com/emrecolakoglu) (@emrecolakoglu) · [origin](https://x.com/emrecolakoglu/status/2093780158180175982)</sub>
 - [Apex](https://x.ai/bot/_BZaF6XfMK_kPsmrLSqRK) — Research partner for when you do not know the right question yet, turning messy ideas and stuck projects into maps of what matters and the next test. <sub>by [AquaShadowKing](https://x.com/ShadowMonkeyMan) · [origin](https://x.com/ShadowMonkeyMan/status/2107286174301835285)</sub>
 - [Apple & Tech Morning Brief](https://x.ai/bot/T_uGEf4Bv2rN-Z5vBkuMi) — A daily morning brief with the real Apple, gaming hardware, AI, and big-tech news from the last 24 hours. It sends five to eight sourced, dated items,. <sub>by [Pixel](https://x.com/JPipo86) (@JPipo86)</sub>
@@ -329,6 +330,7 @@
 - [Multifamily Comp Desk](https://x.ai/bot/F_s7sno8HC2xZlii-ACzg) — Source-linked availability books, effective rents, and weekly comps packs. <sub>by Matthew (@community)</sub>
 - [My Krishna](https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG) — A Bhagavad Gita companion that answers in Krishna's own voice. <sub>by [AKSHAY](https://x.com/AKSHAYBHOPANI) (@AKSHAYBHOPANI) · [origin](https://x.com/AKSHAYBHOPANI/status/2095049479506538710)</sub>
 - [n8n Schedule Watcher](https://x.ai/bot/n78nHL2pCQJVpseg8uqgU) — Checks your n8n executions for failures each week, picks up newly added workflows, and suggests fixes or streamlining. <sub>by [Joe](https://x.com/digitaljoeyp) (@Joe Pellegrino) · [origin](https://x.com/digitaljoeyp/status/2106906769213587807)</sub>
+- [Name Bot](https://x.ai/bot/EpJjDacRV17vs4bUz6l6v) — Names your Grok bots with three researched personality options each, and sets short function labels so every bot’s job stays readable. Friendly, warm, a. <sub>by [Erik](https://x.com/Erik) · aka *Omri*</sub>
 - [National Dialogue](https://x.ai/bot/ekyJWK5GWu3WcbFzrMBQZ) — National dialogue brief that separates claims from sourced reporting. <sub>by Brett</sub>
 - [NB(New Bot)](https://x.ai/bot/qUCj1Kh-oJLaOToKzneyt) — A short proactive helper that works across tools and files notes into Notion. <sub>by [山炮](https://x.com/liuguihua123) (@liuguihua123)</sub>
 - [Nemesis](https://x.ai/bot/i9shKGaHEyG79WsgIT4BG) — A standing adversary seat that breaks your own access designs early. <sub>by [Michael](https://x.com/IAmMichaelSweet) (@IAmMichaelSweet) · [origin](https://x.com/IAmMichaelSweet/status/2105083997227491731)</sub>
@@ -346,7 +348,6 @@
 - [NFPA Research Assistant](https://x.ai/bot/m80whfWBZ-sHVLjHbtBg1) — Retrieves and cites official NFPA text and municipal adoption records. <sub>by Michal (@community)</sub>
 - [Noobot](https://x.ai/bot/o7UCDF_QEQx8cjWoItCfZ) — Teaches first-time Grok Bot users to create bots and write good prompts themselves. <sub>by [Dominic](https://x.com/dominicyoungix)</sub>
 - [Off-Balance Atlas](https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb) — Writes source-linked deep dives on tech, ML and security. <sub>by [Adem](https://x.com/AdemVessell) (@AdemVessell) · [origin](https://x.com/AdemVessell/status/2093511313158983798)</sub>
-- [Omri](https://x.ai/bot/EpJjDacRV17vs4bUz6l6v) — Names your Grok bots with three researched personality options each, and sets short function labels so every bot’s job stays readable. Friendly, warm, a. <sub>by [Erik](https://x.com/Erik)</sub>
 - [Onboard Bot](https://x.ai/bot/DwV395eKDJOWYtjcqVbAb) — First-session guide that asks what you want done and leaves you with something built, not a blank prompt. <sub>by [JORGE](https://x.com/cryptorally) (@cryptorally) · [origin](https://x.com/cryptorally/status/2102456930325103078)</sub>
 - [Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_) — Daily search-engine check for what is newly public about you. <sub>by [Greg](https://x.com/gkamstra) (@gkamstra) · [origin](https://x.com/gkamstra/status/2095837272687964512)</sub>
 - [Open Alternative Scout](https://x.ai/bot/N7-cgHvWrQs6ZF-wBjAGG) — Scouts rising software and open-source alternative plans. <sub>by [Victor](https://x.com/VictorMotricala) (@VictorMotricala) · [origin](https://x.com/VictorMotricala/status/2102428609621160188)</sub>
@@ -582,6 +583,7 @@
 - [X Video Puller](https://x.ai/bot/2b-nu4HSnMh_x4ptop82S) — Hourly X video dropper that learns your taste on import, then sends matching timeline clips with rerun-if-seen filtering. <sub>by [Skyler](https://x.com/blondetwink220) · [origin](https://x.com/blondetwink220/status/2101994427744940286)</sub>
 - [X 投资情报助手](https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk) — Tracks investors you follow on X and chatter on your stock watchlist, then publishes a chart-rich daily briefing to Feishu or Lark. <sub>by [web](https://x.com/qizhong_hu) (@qishiya) · [origin](https://x.com/qizhong_hu/status/2104823627183268092)</sub>
 - [XChat 사례 큐레이터 봇](https://x.ai/bot/Sg-5129uv9Hi2RRcrjRfi) — X에서 Grok Bot 같은 주제의 새 활용 사례를 주기적으로 찾아, 템플릿이나 구체적인 사용법이 있는 글만 골라 요약·번역해 내 XChat 그룹에 올려주는 봇이에요. 커뮤니티 운영자에게 맞아요. <sub>by [Brandon](https://x.com/brandonchung75) (@brandonchung75) · [origin](https://x.com/brandonchung75/status/2103638680263086437)</sub>
+- [X監視Bot](https://x.ai/bot/h0YtWQyxMfHnedrjMsnOR) — Watches chosen X accounts, lists and keywords and sends a morning digest of rising posts and replies to you (Japanese). <sub>by [わど🐏AI界のマスコット](https://x.com/wad0427) (@wad0427) · [origin](https://x.com/wad0427/status/2108470777402335237)</sub>
 - [Yahoo Pulse](https://x.ai/bot/5nnJJwVjO4EwThIaaaynu) — A read-only daily brief on the tickers you follow, with charts and news. <sub>by [Thomas](https://x.com/Tferriere) (@Tferriere) · [origin](https://x.com/Tferriere/status/2096101032355061902)</sub>
 - [YC Podcast Notes](https://x.ai/bot/0y-dcpVFqFkjibKs2M48D) — Hourly watch on Y Combinator's podcasts with founder-useful notes. <sub>by [Sumer](https://x.com/buuxbt) (@buuxbt) · [origin](https://x.com/buuxbt/status/2093483175729361069)</sub>
 - [YeetViewer](https://x.ai/bot/ZN1EymIusO1adHWaIuJJe) — A read-only X (Twitter) viewer that checks profiles, posts, searches and notifications through your signed-in browser. It can also watch a. <sub>by [x1Ler](https://x.com/x1Ler)</sub>

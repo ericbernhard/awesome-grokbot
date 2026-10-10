@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-380 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+382 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -40,6 +40,7 @@
 - [BaitCheck](https://x.ai/bot/nXIyPDFW9mbmer2qdt4FW) — Cold DMs? Paste the bait—DMs, ads, video cards. <sub>by Renee (@community)</sub>
 - [Banger](https://x.ai/bot/vA5jP7SZTv53hSMR5GIlO) — Drafts short, hard posts that punch up at systems, not people. Never posts unless you say send. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Bard](https://x.ai/bot/y_QOhpnXyS7Rap9CE4Ir8) — Writes chronicle songs about what you have actually been building, in a traveling bard voice, then offers sealed Grok Imagine prompts so a bard can. <sub>by [Jacob](https://x.com/XyberRun) (@XyberRun) · [origin](https://x.com/XyberRun/status/2103629410876162382)</sub>
+- [Beat Cut](https://x.ai/bot/9VWen13yCOgJi--kDJtcW) — Turns your song, or a beat it composes, into a beat-synced music video while keeping API costs low. <sub>by [Profitable](https://x.com/DisruptionUp) (@DisruptionUp) · [origin](https://x.com/DisruptionUp/status/2108515047836160286)</sub>
 - [Best Video Editor](https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI) — Plans the whole edit from your footage and returns a review-ready cut. <sub>by [X](https://x.com/XFreeze) (@XFreeze) · [origin](https://x.com/XFreeze/status/2093442263200235974)</sub>
 - [Bid Desk Bot](https://x.ai/bot/0yugqK0MhQxGg9-Lsc1rs) — For a single-owner logistics startup that needs contracting opportunities at scale. Frames bids to real companies after a customer request instead of. <sub>by [Roskr](https://x.com/RoskrLC) (@RoskrLC) · [origin](https://x.com/RoskrLC/status/2099992835747389442)</sub>
 - [blogdrafter](https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi) — Drafts and edits blog posts in your voice from rough notes to something publishable. <sub>by [dai](https://x.com/daisuke) (@daisuke) · [origin](https://x.com/daisuke/status/2097903822232518947)</sub>
@@ -319,6 +320,7 @@
 - [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) — Cleans up writing you already have into one send-ready version. <sub>by [Bill](https://x.com/GrokBotGod) (@GrokBotGod)</sub>
 - [The Director](https://x.ai/bot/yyBdZJpc8kcndrs-e5TKi) — Film-unit director that turns a short brief into a shot list with lenses and T-stops. <sub>by [Ben](https://x.com/ben_pedley) · [origin](https://x.com/ben_pedley)</sub>
 - [The Table](https://x.ai/bot/MCbora5cfpxh0qvCQkABU) — Solo TTRPG with a real party of bots , GM + players who whisper, argue rules, and surprise you. <sub>by [Markus](https://x.com/Markus)</sub>
+- [TikTok Downloader](https://x.ai/bot/d-8Ufl3xjScgPS7putqr7) — Paste a TikTok link and get the video, or just its audio, saved to your computer. <sub>by Heidi · [origin](https://x.com/HeidiBriones/status/2107892703363322338)</sub>
 - [Toolsmith](https://x.ai/bot/Y4Wgv33AYwUvbYZ5sB-XC) — Forges small reusable scripts and Chrome-free copy packs so listing and automation stay fast and accurate. Prefer a skill over a new bot; after a path. <sub>by [Zye](https://x.com/ZyeAnd1) (@ZyeAnd1) · [origin](https://x.com/ZyeAnd1/status/2099987803228754118)</sub>
 - [Trail Camera Analyst](https://x.ai/bot/25StqpR__kg6k6hCky8wz) — Turns trail-camera photos and video into wildlife reports with species counts, activity timing, keeper shots, and ranch notes, with location stripped. <sub>by [Russell](https://x.com/RussellVargo) · [origin](https://x.com/RussellVargo/status/2107531469140959680)</sub>
 - [Travel Grok](https://x.ai/bot/4YWzzAP8Di9B4DnYd3Uzo) — A wandering pen-pal bot that sends the occasional note and postcard. <sub>by [Tony](https://x.com/coolbat1999) (@coolbat1999) · [origin](https://x.com/coolbat1999/status/2100599548871889340)</sub>

@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-244 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+245 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -183,6 +183,7 @@
 - [Remorse Timer](https://x.ai/bot/vwPidRQz6aaEzLWOnU6Tz) — 对循环扣费给出取消／暂停／保留，并点出沉没成本。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Renewals Invoice Bot](https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum) — 在周预算内付已知续费，新账单先问你再动。 <sub>作者 [Neessam](https://x.com/compileinstyle) (@compileinstyle) · [出处](https://x.com/compileinstyle/status/2097809676242956768)</sub>
 - [Rental Desk](https://x.ai/bot/0havI1dJhzL_gG11rueQN) — 小房东后台助手，起草房源整理问询约看房与收租记录，步步等你批。 <sub>作者 [Branden](https://x.com/BrandenSeth) (@BrandenSeth) · [出处](https://x.com/BrandenSeth/status/2106152472066523269)</sub>
+- [Rental Investor Research Desk](https://x.ai/bot/L7E3Eh2-CBKZbq4EsO6mt) — 小型房东投资研究台：按你的标准筛房源，记录租金，帮你测算交易。 <sub>作者 Tom</sub>
 - [Reorder](https://x.ai/bot/BDvP1yXPqp5DtJlk94Kmj) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [Richard](https://x.com/RichGarrick) (@Richard Garrick) · [出处](https://x.com/RichGarrick/status/2104700485567684743)</sub>
 - [Returns & Warranties](https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt) — 在退货、退款或保修窗口关掉前提醒你。 <sub>作者 [Liam](https://x.com/liam_fallen) · [出处](https://x.com/liam_fallen/status/2093635776659554701)</sub>
 - [RevenueDog](https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT) — 早上醒来就有昨天的订阅数字，外加一条值得试的改进。 <sub>作者 [Lex](https://x.com/lexrus) (@lexrus) · [出处](https://x.com/lexrus/status/2094285817221111992)</sub>
@@ -222,7 +223,7 @@
 - [Tiffany](https://x.ai/bot/7DlZjgLrcgPUNVkl_cC95) — 泳池管道贸易运营，核供应商价、审发票并催逾期款。 <sub>作者 [Micah](https://x.com/Micahaus) (@Micahaus) · [出处](https://x.com/Micahaus/status/2101421701674528824)</sub>
 - [Tradey](https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ) — 自主短线股票台，目标在专用券商现金账户上跑赢 SPY，读盘并下单前仍要你确认关键规则。 <sub>作者 [Farzad](https://x.com/farzyness) (@farzyness)</sub>
 - [Trading](https://x.ai/bot/XW2DibYh5BRunhH_f373u) — 新闻驱动的日内交易 Bot，接实盘账户，单票重仓。风险极高，先读代码。 <sub>作者 [Travis](https://x.com/TravisWeathers) (@TravisWeathers) · [出处](https://x.com/TravisWeathers/status/2093818846637666637)</sub>
-- [Trading Bot 3.0](https://x.ai/bot/BcSPHebyU3Gkqqqhn3QRr) — 在你为其创建的小钱包上，于 XRP Ledger 内置交易所为 XRP/RLUSD 挂买卖限价单。 <sub>作者 [James](https://x.com/allthemoney) · [出处](https://x.com/allthemoney/status/2104542449674699224)</sub>
+- [Trading Bot 4.0](https://x.ai/bot/BcSPHebyU3Gkqqqhn3QRr) — 在你为其创建的小钱包上，于 XRP Ledger 内置交易所为 XRP/RLUSD 挂买卖限价单。 <sub>作者 [James](https://x.com/allthemoney) · 社区旧称 *Trading Bot 3.0* · [出处](https://x.com/allthemoney/status/2104542449674699224)</sub>
 - [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) — 懂积分的旅行运营代理，建行程总部，猎航班酒店，比较现金与积分。 <sub>作者 [Manan](https://x.com/manan_suneja) (@manan_suneja)</sub>
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) — 从你枢纽机场找真旅行优惠，对齐空档日历，价格诚实不编「原价」。 <sub>作者 [natillie](https://x.com/natillie)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray 交易工作台。 <sub>作者 [XO](https://x.com/Ortix008) (@Ortix008)</sub>

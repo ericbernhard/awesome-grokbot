@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-380 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+382 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -40,6 +40,7 @@
 - [BaitCheck](https://x.ai/bot/nXIyPDFW9mbmer2qdt4FW) — 内容创作与发布助手。 <sub>作者 Renee (@community)</sub>
 - [Banger](https://x.ai/bot/vA5jP7SZTv53hSMR5GIlO) — 起草短而硬的帖，冲制度不冲人，你说发送才发。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Bard](https://x.ai/bot/y_QOhpnXyS7Rap9CE4Ir8) — 按你真实在做的事写编年史风格歌曲。 <sub>作者 [Jacob](https://x.com/XyberRun) (@XyberRun) · [出处](https://x.com/XyberRun/status/2103629410876162382)</sub>
+- [Beat Cut](https://x.ai/bot/9VWen13yCOgJi--kDJtcW) — 把你的歌或它作的曲做成卡点 MV，尽量省 API 成本。 <sub>作者 [Profitable](https://x.com/DisruptionUp) (@DisruptionUp) · [出处](https://x.com/DisruptionUp/status/2108515047836160286)</sub>
 - [Best Video Editor](https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI) — 按你的素材规划整段剪辑，交出可审的成片。 <sub>作者 [X](https://x.com/XFreeze) (@XFreeze) · [出处](https://x.com/XFreeze/status/2093442263200235974)</sub>
 - [Bid Desk Bot](https://x.ai/bot/0yugqK0MhQxGg9-Lsc1rs) — 帮一人物流创业公司规模化找合同，按客户需求向真实公司写标书，而不是空转。 <sub>作者 [Roskr](https://x.com/RoskrLC) (@RoskrLC) · [出处](https://x.com/RoskrLC/status/2099992835747389442)</sub>
 - [blogdrafter](https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi) — 从笔记起草和润色博客，靠你的写作档案保住本人语气。 <sub>作者 [dai](https://x.com/daisuke) (@daisuke) · [出处](https://x.com/daisuke/status/2097903822232518947)</sub>
@@ -319,6 +320,7 @@
 - [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) — 把已有草稿收成一版能直接发出去的文字，不另起新稿。 <sub>作者 [Bill](https://x.com/GrokBotGod) (@GrokBotGod)</sub>
 - [The Director](https://x.ai/bot/yyBdZJpc8kcndrs-e5TKi) — 影视片场导演，把短简报落成带镜头与 T 档的分镜表。 <sub>作者 [Ben](https://x.com/ben_pedley) · [出处](https://x.com/ben_pedley)</sub>
 - [The Table](https://x.ai/bot/MCbora5cfpxh0qvCQkABU) — 单人跑团，真有 GM 与玩家机器人会咬耳朵、吵规则并给你惊喜。 <sub>作者 [Markus](https://x.com/Markus)</sub>
+- [TikTok Downloader](https://x.ai/bot/d-8Ufl3xjScgPS7putqr7) — 贴 TikTok 链接，把视频或音频保存到电脑。 <sub>作者 Heidi · [出处](https://x.com/HeidiBriones/status/2107892703363322338)</sub>
 - [Toolsmith](https://x.ai/bot/Y4Wgv33AYwUvbYZ5sB-XC) — 锻造可复用的小脚本与免 Chrome 复制包，让上架与自动化保持快速。 <sub>作者 [Zye](https://x.com/ZyeAnd1) (@ZyeAnd1) · [出处](https://x.com/ZyeAnd1/status/2099987803228754118)</sub>
 - [Trail Camera Analyst](https://x.ai/bot/25StqpR__kg6k6hCky8wz) — 把红外相机的照片和视频整理成野生动物报告：物种计数、活动时间、值得留的镜头和牧场笔记，并去掉位置信息。 <sub>作者 [Russell](https://x.com/RussellVargo) · [出处](https://x.com/RussellVargo/status/2107531469140959680)</sub>
 - [Travel Grok](https://x.ai/bot/4YWzzAP8Di9B4DnYd3Uzo) — 会自己出门晃荡的笔友机器人，偶尔寄回短讯与明信片。 <sub>作者 [Tony](https://x.com/coolbat1999) (@coolbat1999) · [出处](https://x.com/coolbat1999/status/2100599548871889340)</sub>
